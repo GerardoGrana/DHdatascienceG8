@@ -1,0 +1,827 @@
+Marca temporal,ID,Tipo de punto,Numero,Clasificacion,ClasificacionNum,TipoResiduo,Cantidad,CantidadNum,¿Se realiza recolección en el momento?,Calidad (grupos)
+17/06/2020 03:52:19 p.m.,PV1,Punto Verde,1,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+15/04/2020 10:25:52 a.m.,PV1,Punto Verde,1,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+08/04/2020 12:27:45 p.m.,PV1,Punto Verde,1,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+24/06/2020 11:00:39 a.m.,PV1,Punto Verde,1,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+15/04/2020 10:25:52 a.m.,PV1,Punto Verde,1,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+08/04/2020 12:27:45 p.m.,PV1,Punto Verde,1,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+17/06/2020 03:52:19 p.m.,PV1,Punto Verde,1,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+15/04/2020 10:25:52 a.m.,PV1,Punto Verde,1,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+08/04/2020 12:27:45 p.m.,PV1,Punto Verde,1,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+24/06/2020 11:00:39 a.m.,PV1,Punto Verde,1,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+17/06/2020 03:52:19 p.m.,PV1,Punto Verde,1,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+24/06/2020 11:00:39 a.m.,PV1,Punto Verde,1,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+20/03/2020 10:09:09 a.m.,PV1,Punto Verde,1,Buena,"1,00",Papel,Alto,"3,00",Sí,Buena
+20/03/2020 10:09:09 a.m.,PV1,Punto Verde,1,Buena,"1,00","Vidrio, Metal, Tetra",Alto,"3,00",Sí,Buena
+20/03/2020 10:09:09 a.m.,PV1,Punto Verde,1,Buena,"1,00",Plástico,Alto,"3,00",Sí,Buena
+17/03/2020 06:02:59 p.m.,PV1,Punto Verde,1,Buena,"1,00",Papel,Alto,"3,00",Sí,Buena
+17/03/2020 06:02:59 p.m.,PV1,Punto Verde,1,Buena,"1,00","Vidrio, Metal, Tetra",Alto,"3,00",Sí,Buena
+17/03/2020 06:02:59 p.m.,PV1,Punto Verde,1,Buena,"1,00",Plástico,Alto,"3,00",Sí,Buena
+15/04/2020 10:24:39 a.m.,PV11,Punto Verde,11,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+24/06/2020 01:50:16 p.m.,PV11,Punto Verde,11,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+15/04/2020 10:24:39 a.m.,PV11,Punto Verde,11,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+15/04/2020 10:24:39 a.m.,PV11,Punto Verde,11,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+24/06/2020 01:50:16 p.m.,PV11,Punto Verde,11,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+24/06/2020 01:50:16 p.m.,PV11,Punto Verde,11,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+17/06/2020 03:48:36 p.m.,PV11,Punto Verde,11,Buena,"1,00",Papel,Alto,"3,00",Sí,Buena
+17/06/2020 03:48:36 p.m.,PV11,Punto Verde,11,Buena,"1,00","Vidrio, Metal, Tetra",Alto,"3,00",Sí,Buena
+17/06/2020 03:48:36 p.m.,PV11,Punto Verde,11,Buena,"1,00",Plástico,Alto,"3,00",Sí,Buena
+17/03/2020 05:58:53 p.m.,PV11,Punto Verde,11,Buena,"1,00",Papel,Alto,"3,00",Sí,Buena
+17/03/2020 05:58:53 p.m.,PV11,Punto Verde,11,Buena,"1,00","Vidrio, Metal, Tetra",Alto,"3,00",Sí,Buena
+17/03/2020 05:58:53 p.m.,PV11,Punto Verde,11,Buena,"1,00",Plástico,Alto,"3,00",Sí,Buena
+08/04/2020 12:16:58 p.m.,PV11,Punto Verde,11,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+08/04/2020 12:16:58 p.m.,PV11,Punto Verde,11,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+08/04/2020 12:16:58 p.m.,PV11,Punto Verde,11,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+01/04/2020 01:45:59 p.m.,PV11,Punto Verde,11,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+01/04/2020 01:45:59 p.m.,PV11,Punto Verde,11,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+01/04/2020 01:45:59 p.m.,PV11,Punto Verde,11,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+23/03/2020 01:00:45 p.m.,PV11,Punto Verde,11,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+23/03/2020 01:00:45 p.m.,PV11,Punto Verde,11,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+23/03/2020 01:00:45 p.m.,PV11,Punto Verde,11,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+20/03/2020 10:09:51 a.m.,PV11,Punto Verde,11,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+20/03/2020 10:09:51 a.m.,PV11,Punto Verde,11,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+20/03/2020 10:09:51 a.m.,PV11,Punto Verde,11,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+01/04/2020 02:59:12 p.m.,PV12,Punto Verde,12,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+23/03/2020 01:15:35 p.m.,PV12,Punto Verde,12,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+01/04/2020 02:59:12 p.m.,PV12,Punto Verde,12,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+23/03/2020 01:15:35 p.m.,PV12,Punto Verde,12,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+01/04/2020 02:59:12 p.m.,PV12,Punto Verde,12,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+23/03/2020 01:15:35 p.m.,PV12,Punto Verde,12,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+17/06/2020 03:12:26 p.m.,PV12,Punto Verde,12,Buena,"1,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Buena
+27/05/2020 11:13:44 a.m.,PV12,Punto Verde,12,Buena,"1,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Buena
+17/06/2020 03:12:26 p.m.,PV12,Punto Verde,12,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+17/06/2020 03:12:26 p.m.,PV12,Punto Verde,12,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+27/05/2020 11:13:44 a.m.,PV12,Punto Verde,12,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+27/05/2020 11:13:44 a.m.,PV12,Punto Verde,12,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+27/05/2020 11:11:46 a.m.,PV13,Punto Verde,13,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+08/04/2020 10:36:15 a.m.,PV13,Punto Verde,13,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+01/04/2020 03:00:07 p.m.,PV13,Punto Verde,13,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+23/03/2020 01:16:22 p.m.,PV13,Punto Verde,13,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+27/05/2020 11:11:46 a.m.,PV13,Punto Verde,13,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+08/04/2020 10:36:15 a.m.,PV13,Punto Verde,13,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+01/04/2020 03:00:07 p.m.,PV13,Punto Verde,13,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+23/03/2020 01:16:22 p.m.,PV13,Punto Verde,13,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+27/05/2020 11:11:46 a.m.,PV13,Punto Verde,13,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+08/04/2020 10:36:15 a.m.,PV13,Punto Verde,13,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+01/04/2020 03:00:07 p.m.,PV13,Punto Verde,13,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+23/03/2020 01:16:22 p.m.,PV13,Punto Verde,13,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+17/03/2020 10:36:30 a.m.,PV14,Punto Verde,14,Buena,"1,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Buena
+17/03/2020 10:36:30 a.m.,PV14,Punto Verde,14,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+17/03/2020 10:36:30 a.m.,PV14,Punto Verde,14,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/06/2020 03:17:33 p.m.,PV18,Punto Verde,18,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+27/05/2020 11:04:11 a.m.,PV18,Punto Verde,18,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+13/05/2020 10:38:38 a.m.,PV18,Punto Verde,18,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+15/04/2020 10:05:52 a.m.,PV18,Punto Verde,18,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+24/06/2020 11:01:54 a.m.,PV18,Punto Verde,18,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+27/05/2020 11:04:11 a.m.,PV18,Punto Verde,18,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+13/05/2020 10:38:38 a.m.,PV18,Punto Verde,18,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+15/04/2020 10:05:52 a.m.,PV18,Punto Verde,18,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+08/04/2020 10:38:54 a.m.,PV18,Punto Verde,18,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+01/04/2020 09:20:17 a.m.,PV18,Punto Verde,18,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+23/03/2020 12:01:07 p.m.,PV18,Punto Verde,18,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+24/06/2020 11:01:54 a.m.,PV18,Punto Verde,18,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+17/06/2020 03:17:33 p.m.,PV18,Punto Verde,18,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+17/06/2020 03:17:33 p.m.,PV18,Punto Verde,18,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+27/05/2020 11:04:11 a.m.,PV18,Punto Verde,18,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+13/05/2020 10:38:38 a.m.,PV18,Punto Verde,18,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+15/04/2020 10:05:52 a.m.,PV18,Punto Verde,18,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+08/04/2020 10:38:54 a.m.,PV18,Punto Verde,18,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+08/04/2020 10:38:54 a.m.,PV18,Punto Verde,18,Regular,"2,00",Plástico,Bajo,"1,00",Sí,Regular
+01/04/2020 09:20:17 a.m.,PV18,Punto Verde,18,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+01/04/2020 09:20:17 a.m.,PV18,Punto Verde,18,Regular,"2,00",Plástico,Bajo,"1,00",Sí,Regular
+23/03/2020 12:01:07 p.m.,PV18,Punto Verde,18,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+23/03/2020 12:01:07 p.m.,PV18,Punto Verde,18,Regular,"2,00",Plástico,Bajo,"1,00",Sí,Regular
+24/06/2020 11:01:54 a.m.,PV18,Punto Verde,18,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+20/03/2020 02:51:46 p.m.,PV18,Punto Verde,18,Buena,"1,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Buena
+17/03/2020 10:15:10 a.m.,PV18,Punto Verde,18,Buena,"1,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Buena
+17/03/2020 10:15:10 a.m.,PV18,Punto Verde,18,Buena,"1,00",Plástico,Alto,"3,00",Sí,Buena
+20/03/2020 02:51:46 p.m.,PV18,Punto Verde,18,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+20/03/2020 02:51:46 p.m.,PV18,Punto Verde,18,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/03/2020 10:15:10 a.m.,PV18,Punto Verde,18,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+17/03/2020 10:17:23 a.m.,PV19,Punto Verde,19,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+17/03/2020 10:17:23 a.m.,PV19,Punto Verde,19,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+17/03/2020 10:17:23 a.m.,PV19,Punto Verde,19,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+13/03/2020 09:20:05 a.m.,PV2,Punto Verde,2,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+13/03/2020 09:20:05 a.m.,PV2,Punto Verde,2,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+13/03/2020 09:20:05 a.m.,PV2,Punto Verde,2,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/06/2020 03:44:45 p.m.,PV20,Punto Verde,20,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+15/04/2020 10:21:26 a.m.,PV20,Punto Verde,20,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+08/04/2020 12:12:32 p.m.,PV20,Punto Verde,20,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+01/04/2020 09:56:44 a.m.,PV20,Punto Verde,20,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+23/03/2020 12:57:22 p.m.,PV20,Punto Verde,20,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+24/06/2020 01:43:25 p.m.,PV20,Punto Verde,20,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+15/04/2020 10:21:26 a.m.,PV20,Punto Verde,20,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+08/04/2020 12:12:32 p.m.,PV20,Punto Verde,20,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+01/04/2020 09:56:44 a.m.,PV20,Punto Verde,20,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+23/03/2020 12:57:22 p.m.,PV20,Punto Verde,20,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+17/06/2020 03:44:45 p.m.,PV20,Punto Verde,20,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+08/04/2020 12:12:32 p.m.,PV20,Punto Verde,20,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+01/04/2020 09:56:44 a.m.,PV20,Punto Verde,20,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+24/06/2020 01:43:25 p.m.,PV20,Punto Verde,20,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+17/06/2020 03:44:45 p.m.,PV20,Punto Verde,20,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+15/04/2020 10:21:26 a.m.,PV20,Punto Verde,20,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+23/03/2020 12:57:22 p.m.,PV20,Punto Verde,20,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+24/06/2020 01:43:25 p.m.,PV20,Punto Verde,20,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+17/03/2020 05:33:53 p.m.,PV20,Punto Verde,20,Buena,"1,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Buena
+17/03/2020 05:33:53 p.m.,PV20,Punto Verde,20,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+17/03/2020 05:33:53 p.m.,PV20,Punto Verde,20,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/06/2020 03:44:30 p.m.,PV21,Punto Verde,21,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+15/04/2020 10:21:02 a.m.,PV21,Punto Verde,21,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+08/04/2020 12:12:09 p.m.,PV21,Punto Verde,21,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+24/06/2020 01:43:49 p.m.,PV21,Punto Verde,21,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+17/06/2020 03:44:30 p.m.,PV21,Punto Verde,21,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+15/04/2020 10:21:02 a.m.,PV21,Punto Verde,21,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+08/04/2020 12:12:09 p.m.,PV21,Punto Verde,21,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+01/04/2020 09:56:18 a.m.,PV21,Punto Verde,21,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+17/06/2020 03:44:30 p.m.,PV21,Punto Verde,21,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+08/04/2020 12:12:09 p.m.,PV21,Punto Verde,21,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+24/06/2020 01:43:49 p.m.,PV21,Punto Verde,21,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+15/04/2020 10:21:02 a.m.,PV21,Punto Verde,21,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+01/04/2020 09:56:18 a.m.,PV21,Punto Verde,21,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+01/04/2020 09:56:18 a.m.,PV21,Punto Verde,21,Regular,"2,00",Plástico,Bajo,"1,00",Sí,Regular
+24/06/2020 01:43:49 p.m.,PV21,Punto Verde,21,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+23/03/2020 12:57:01 p.m.,PV21,Punto Verde,21,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+23/03/2020 12:57:01 p.m.,PV21,Punto Verde,21,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+23/03/2020 12:57:01 p.m.,PV21,Punto Verde,21,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/03/2020 05:33:16 p.m.,PV21,Punto Verde,21,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+17/03/2020 05:33:16 p.m.,PV21,Punto Verde,21,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+17/03/2020 05:33:16 p.m.,PV21,Punto Verde,21,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+08/04/2020 12:14:12 p.m.,PV23,Punto Verde,23,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+01/04/2020 09:57:43 a.m.,PV23,Punto Verde,23,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+24/06/2020 01:48:10 p.m.,PV23,Punto Verde,23,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+08/04/2020 12:14:12 p.m.,PV23,Punto Verde,23,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+01/04/2020 09:57:43 a.m.,PV23,Punto Verde,23,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+08/04/2020 12:14:12 p.m.,PV23,Punto Verde,23,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+01/04/2020 09:57:43 a.m.,PV23,Punto Verde,23,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+24/06/2020 01:48:10 p.m.,PV23,Punto Verde,23,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+24/06/2020 01:48:10 p.m.,PV23,Punto Verde,23,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+17/06/2020 03:46:54 p.m.,PV23,Punto Verde,23,Buena,"1,00",Papel,Alto,"3,00",Sí,Buena
+17/06/2020 03:46:54 p.m.,PV23,Punto Verde,23,Buena,"1,00","Vidrio, Metal, Tetra",Alto,"3,00",Sí,Buena
+17/06/2020 03:46:54 p.m.,PV23,Punto Verde,23,Buena,"1,00",Plástico,Alto,"3,00",Sí,Buena
+17/03/2020 05:54:31 p.m.,PV23,Punto Verde,23,Buena,"1,00",Papel,Alto,"3,00",Sí,Buena
+17/03/2020 05:54:31 p.m.,PV23,Punto Verde,23,Buena,"1,00","Vidrio, Metal, Tetra",Alto,"3,00",Sí,Buena
+17/03/2020 05:54:31 p.m.,PV23,Punto Verde,23,Buena,"1,00",Plástico,Alto,"3,00",Sí,Buena
+15/04/2020 10:22:15 a.m.,PV23,Punto Verde,23,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+15/04/2020 10:22:15 a.m.,PV23,Punto Verde,23,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+15/04/2020 10:22:15 a.m.,PV23,Punto Verde,23,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+23/03/2020 12:58:03 p.m.,PV23,Punto Verde,23,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+23/03/2020 12:58:03 p.m.,PV23,Punto Verde,23,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+23/03/2020 12:58:03 p.m.,PV23,Punto Verde,23,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+27/05/2020 11:07:42 a.m.,PV24,Punto Verde,24,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+13/05/2020 10:41:10 a.m.,PV24,Punto Verde,24,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+15/04/2020 10:09:01 a.m.,PV24,Punto Verde,24,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+08/04/2020 10:42:02 a.m.,PV24,Punto Verde,24,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+23/03/2020 12:32:00 p.m.,PV24,Punto Verde,24,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+24/06/2020 11:05:50 a.m.,PV24,Punto Verde,24,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+27/05/2020 11:07:42 a.m.,PV24,Punto Verde,24,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+15/04/2020 10:09:01 a.m.,PV24,Punto Verde,24,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+08/04/2020 10:42:02 a.m.,PV24,Punto Verde,24,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+27/05/2020 11:07:42 a.m.,PV24,Punto Verde,24,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+15/04/2020 10:09:01 a.m.,PV24,Punto Verde,24,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+08/04/2020 10:42:02 a.m.,PV24,Punto Verde,24,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+24/06/2020 11:05:50 a.m.,PV24,Punto Verde,24,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+17/06/2020 03:21:35 p.m.,PV24,Punto Verde,24,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",No,Regular
+17/06/2020 03:21:35 p.m.,PV24,Punto Verde,24,Regular,"2,00",Plástico,Medio,"2,00",No,Regular
+17/06/2020 03:21:35 p.m.,PV24,Punto Verde,24,Regular,"2,00",Papel,Bajo,"1,00",No,Regular
+13/05/2020 10:41:10 a.m.,PV24,Punto Verde,24,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+13/05/2020 10:41:10 a.m.,PV24,Punto Verde,24,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+01/04/2020 09:22:48 a.m.,PV24,Punto Verde,24,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+01/04/2020 09:22:48 a.m.,PV24,Punto Verde,24,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+01/04/2020 09:22:48 a.m.,PV24,Punto Verde,24,Regular,"2,00",Plástico,Bajo,"1,00",Sí,Regular
+23/03/2020 12:32:00 p.m.,PV24,Punto Verde,24,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+23/03/2020 12:32:00 p.m.,PV24,Punto Verde,24,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+23/03/2020 12:08:22 p.m.,PV24,Punto Verde,24,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+23/03/2020 12:08:22 p.m.,PV24,Punto Verde,24,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+23/03/2020 12:08:22 p.m.,PV24,Punto Verde,24,Regular,"2,00",Plástico,Bajo,"1,00",Sí,Regular
+24/06/2020 11:05:50 a.m.,PV24,Punto Verde,24,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+17/03/2020 10:22:31 a.m.,PV24,Punto Verde,24,Buena,"1,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Buena
+20/03/2020 02:55:09 p.m.,PV24,Punto Verde,24,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+20/03/2020 02:55:09 p.m.,PV24,Punto Verde,24,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+20/03/2020 02:55:09 p.m.,PV24,Punto Verde,24,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/03/2020 10:22:31 a.m.,PV24,Punto Verde,24,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+17/03/2020 10:22:31 a.m.,PV24,Punto Verde,24,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/06/2020 03:22:09 p.m.,PV24,Punto Verde,24,Mala,"3,00",Papel,Medio,"2,00",Sí,Mala
+17/06/2020 03:22:09 p.m.,PV24,Punto Verde,24,Mala,"3,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Mala
+17/06/2020 03:22:09 p.m.,PV24,Punto Verde,24,Mala,"3,00",Plástico,Bajo,"1,00",Sí,Mala
+17/06/2020 03:18:16 p.m.,PV25,Punto Verde,25,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+27/05/2020 11:05:45 a.m.,PV25,Punto Verde,25,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+13/05/2020 10:39:47 a.m.,PV25,Punto Verde,25,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+01/04/2020 09:21:20 a.m.,PV25,Punto Verde,25,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+23/03/2020 12:03:49 p.m.,PV25,Punto Verde,25,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+24/06/2020 11:04:18 a.m.,PV25,Punto Verde,25,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+27/05/2020 11:05:45 a.m.,PV25,Punto Verde,25,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+13/05/2020 10:39:47 a.m.,PV25,Punto Verde,25,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+15/04/2020 10:07:25 a.m.,PV25,Punto Verde,25,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+17/06/2020 03:18:16 p.m.,PV25,Punto Verde,25,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+27/05/2020 11:05:45 a.m.,PV25,Punto Verde,25,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+13/05/2020 10:39:47 a.m.,PV25,Punto Verde,25,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+24/06/2020 11:04:18 a.m.,PV25,Punto Verde,25,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+17/06/2020 03:18:16 p.m.,PV25,Punto Verde,25,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+15/04/2020 10:07:25 a.m.,PV25,Punto Verde,25,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+15/04/2020 10:07:25 a.m.,PV25,Punto Verde,25,Regular,"2,00",Plástico,Bajo,"1,00",Sí,Regular
+08/04/2020 10:40:22 a.m.,PV25,Punto Verde,25,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+08/04/2020 10:40:22 a.m.,PV25,Punto Verde,25,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+08/04/2020 10:40:22 a.m.,PV25,Punto Verde,25,Regular,"2,00",Plástico,Bajo,"1,00",Sí,Regular
+01/04/2020 09:21:20 a.m.,PV25,Punto Verde,25,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+01/04/2020 09:21:20 a.m.,PV25,Punto Verde,25,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+23/03/2020 12:03:49 p.m.,PV25,Punto Verde,25,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+23/03/2020 12:03:49 p.m.,PV25,Punto Verde,25,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+24/06/2020 11:04:18 a.m.,PV25,Punto Verde,25,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+17/03/2020 10:21:55 a.m.,PV25,Punto Verde,25,Buena,"1,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Buena
+20/03/2020 02:52:42 p.m.,PV25,Punto Verde,25,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+20/03/2020 02:52:42 p.m.,PV25,Punto Verde,25,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+20/03/2020 02:52:42 p.m.,PV25,Punto Verde,25,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/03/2020 10:21:55 a.m.,PV25,Punto Verde,25,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+17/03/2020 10:21:55 a.m.,PV25,Punto Verde,25,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/06/2020 03:19:29 p.m.,PV27,Punto Verde,27,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+27/05/2020 11:06:55 a.m.,PV27,Punto Verde,27,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+13/05/2020 10:40:12 a.m.,PV27,Punto Verde,27,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+15/04/2020 10:08:06 a.m.,PV27,Punto Verde,27,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+08/04/2020 10:41:08 a.m.,PV27,Punto Verde,27,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+27/05/2020 11:06:55 a.m.,PV27,Punto Verde,27,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+13/05/2020 10:40:12 a.m.,PV27,Punto Verde,27,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+15/04/2020 10:08:06 a.m.,PV27,Punto Verde,27,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+08/04/2020 10:41:08 a.m.,PV27,Punto Verde,27,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+01/04/2020 09:20:59 a.m.,PV27,Punto Verde,27,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+17/06/2020 03:19:29 p.m.,PV27,Punto Verde,27,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+27/05/2020 11:06:55 a.m.,PV27,Punto Verde,27,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+13/05/2020 10:40:12 a.m.,PV27,Punto Verde,27,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+08/04/2020 10:41:08 a.m.,PV27,Punto Verde,27,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+17/06/2020 03:19:29 p.m.,PV27,Punto Verde,27,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+15/04/2020 10:08:06 a.m.,PV27,Punto Verde,27,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+01/04/2020 09:20:59 a.m.,PV27,Punto Verde,27,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+01/04/2020 09:20:59 a.m.,PV27,Punto Verde,27,Regular,"2,00",Plástico,Bajo,"1,00",Sí,Regular
+23/03/2020 12:06:43 p.m.,PV27,Punto Verde,27,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+23/03/2020 12:06:43 p.m.,PV27,Punto Verde,27,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+23/03/2020 12:06:43 p.m.,PV27,Punto Verde,27,Regular,"2,00",Plástico,Bajo,"1,00",Sí,Regular
+20/03/2020 02:53:33 p.m.,PV27,Punto Verde,27,Buena,"1,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Buena
+20/03/2020 02:53:33 p.m.,PV27,Punto Verde,27,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+20/03/2020 02:53:33 p.m.,PV27,Punto Verde,27,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/03/2020 10:20:10 a.m.,PV27,Punto Verde,27,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+17/03/2020 10:20:10 a.m.,PV27,Punto Verde,27,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+17/03/2020 10:20:10 a.m.,PV27,Punto Verde,27,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/06/2020 03:18:51 p.m.,PV28,Punto Verde,28,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+27/05/2020 11:06:19 a.m.,PV28,Punto Verde,28,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+13/05/2020 10:40:28 a.m.,PV28,Punto Verde,28,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+15/04/2020 10:07:47 a.m.,PV28,Punto Verde,28,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+23/03/2020 12:06:04 p.m.,PV28,Punto Verde,28,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+24/06/2020 11:04:44 a.m.,PV28,Punto Verde,28,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+13/05/2020 10:40:28 a.m.,PV28,Punto Verde,28,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+15/04/2020 10:07:47 a.m.,PV28,Punto Verde,28,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+23/03/2020 12:06:04 p.m.,PV28,Punto Verde,28,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+27/05/2020 11:06:19 a.m.,PV28,Punto Verde,28,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+24/06/2020 11:04:44 a.m.,PV28,Punto Verde,28,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+17/06/2020 03:18:51 p.m.,PV28,Punto Verde,28,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+17/06/2020 03:18:51 p.m.,PV28,Punto Verde,28,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+27/05/2020 11:06:19 a.m.,PV28,Punto Verde,28,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+13/05/2020 10:40:28 a.m.,PV28,Punto Verde,28,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+15/04/2020 10:07:47 a.m.,PV28,Punto Verde,28,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+23/03/2020 12:06:04 p.m.,PV28,Punto Verde,28,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+24/06/2020 11:04:44 a.m.,PV28,Punto Verde,28,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+17/03/2020 10:21:04 a.m.,PV28,Punto Verde,28,Buena,"1,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Buena
+01/04/2020 09:21:41 a.m.,PV28,Punto Verde,28,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+01/04/2020 09:21:41 a.m.,PV28,Punto Verde,28,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+01/04/2020 09:21:41 a.m.,PV28,Punto Verde,28,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+20/03/2020 02:53:06 p.m.,PV28,Punto Verde,28,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+20/03/2020 02:53:06 p.m.,PV28,Punto Verde,28,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+20/03/2020 02:53:06 p.m.,PV28,Punto Verde,28,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/03/2020 10:21:04 a.m.,PV28,Punto Verde,28,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+17/03/2020 10:21:04 a.m.,PV28,Punto Verde,28,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+08/04/2020 10:40:38 a.m.,PV28,Punto Verde,28,Mala,"3,00",Papel,Bajo,"1,00",Sí,Mala
+08/04/2020 10:40:38 a.m.,PV28,Punto Verde,28,Mala,"3,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Mala
+08/04/2020 10:40:38 a.m.,PV28,Punto Verde,28,Mala,"3,00",Plástico,Bajo,"1,00",Sí,Mala
+17/06/2020 03:20:43 p.m.,PV29,Punto Verde,29,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+27/05/2020 11:07:18 a.m.,PV29,Punto Verde,29,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+15/04/2020 10:08:38 a.m.,PV29,Punto Verde,29,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+23/03/2020 12:07:32 p.m.,PV29,Punto Verde,29,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+24/06/2020 11:05:24 a.m.,PV29,Punto Verde,29,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+13/05/2020 10:40:52 a.m.,PV29,Punto Verde,29,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+15/04/2020 10:08:38 a.m.,PV29,Punto Verde,29,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+08/04/2020 10:41:38 a.m.,PV29,Punto Verde,29,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+01/04/2020 09:22:28 a.m.,PV29,Punto Verde,29,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+23/03/2020 12:07:32 p.m.,PV29,Punto Verde,29,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+17/06/2020 03:20:43 p.m.,PV29,Punto Verde,29,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+23/03/2020 12:07:32 p.m.,PV29,Punto Verde,29,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+24/06/2020 11:05:24 a.m.,PV29,Punto Verde,29,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+17/06/2020 03:20:43 p.m.,PV29,Punto Verde,29,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+27/05/2020 11:07:18 a.m.,PV29,Punto Verde,29,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+27/05/2020 11:07:18 a.m.,PV29,Punto Verde,29,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+13/05/2020 10:40:52 a.m.,PV29,Punto Verde,29,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+13/05/2020 10:40:52 a.m.,PV29,Punto Verde,29,Regular,"2,00",Plástico,Bajo,"1,00",Sí,Regular
+15/04/2020 10:08:38 a.m.,PV29,Punto Verde,29,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+08/04/2020 10:41:38 a.m.,PV29,Punto Verde,29,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+08/04/2020 10:41:38 a.m.,PV29,Punto Verde,29,Regular,"2,00",Plástico,Bajo,"1,00",Sí,Regular
+01/04/2020 09:22:28 a.m.,PV29,Punto Verde,29,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+01/04/2020 09:22:28 a.m.,PV29,Punto Verde,29,Regular,"2,00",Plástico,Bajo,"1,00",Sí,Regular
+24/06/2020 11:05:24 a.m.,PV29,Punto Verde,29,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+20/03/2020 02:54:23 p.m.,PV29,Punto Verde,29,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+20/03/2020 02:54:23 p.m.,PV29,Punto Verde,29,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+20/03/2020 02:54:23 p.m.,PV29,Punto Verde,29,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/03/2020 10:22:54 a.m.,PV29,Punto Verde,29,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+17/03/2020 10:22:54 a.m.,PV29,Punto Verde,29,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+17/03/2020 10:22:54 a.m.,PV29,Punto Verde,29,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/06/2020 03:49:38 p.m.,PV3,Punto Verde,3,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+15/04/2020 10:25:12 a.m.,PV3,Punto Verde,3,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+08/04/2020 12:17:42 p.m.,PV3,Punto Verde,3,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+24/06/2020 01:51:05 p.m.,PV3,Punto Verde,3,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+17/06/2020 03:49:38 p.m.,PV3,Punto Verde,3,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+15/04/2020 10:25:12 a.m.,PV3,Punto Verde,3,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+08/04/2020 12:17:42 p.m.,PV3,Punto Verde,3,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+17/06/2020 03:49:38 p.m.,PV3,Punto Verde,3,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+08/04/2020 12:17:42 p.m.,PV3,Punto Verde,3,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+24/06/2020 01:51:05 p.m.,PV3,Punto Verde,3,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+15/04/2020 10:25:12 a.m.,PV3,Punto Verde,3,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+24/06/2020 01:51:05 p.m.,PV3,Punto Verde,3,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+01/04/2020 01:46:42 p.m.,PV3,Punto Verde,3,Buena,"1,00",Papel,Alto,"3,00",Sí,Buena
+01/04/2020 01:46:42 p.m.,PV3,Punto Verde,3,Buena,"1,00","Vidrio, Metal, Tetra",Alto,"3,00",Sí,Buena
+01/04/2020 01:46:42 p.m.,PV3,Punto Verde,3,Buena,"1,00",Plástico,Alto,"3,00",Sí,Buena
+13/03/2020 09:19:40 a.m.,PV3,Punto Verde,3,Buena,"1,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Buena
+23/03/2020 01:05:43 p.m.,PV3,Punto Verde,3,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+23/03/2020 01:05:43 p.m.,PV3,Punto Verde,3,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+23/03/2020 01:05:43 p.m.,PV3,Punto Verde,3,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+20/03/2020 10:10:58 a.m.,PV3,Punto Verde,3,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+20/03/2020 10:10:58 a.m.,PV3,Punto Verde,3,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+20/03/2020 10:10:58 a.m.,PV3,Punto Verde,3,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/03/2020 06:01:05 p.m.,PV3,Punto Verde,3,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+17/03/2020 06:01:05 p.m.,PV3,Punto Verde,3,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+17/03/2020 06:01:05 p.m.,PV3,Punto Verde,3,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+13/03/2020 09:19:40 a.m.,PV3,Punto Verde,3,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+13/03/2020 09:19:40 a.m.,PV3,Punto Verde,3,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/03/2020 05:29:30 p.m.,PV31,Punto Verde,31,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+17/03/2020 05:29:30 p.m.,PV31,Punto Verde,31,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+17/03/2020 05:29:30 p.m.,PV31,Punto Verde,31,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+17/06/2020 03:39:03 p.m.,PV32,Punto Verde,32,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+27/05/2020 11:09:59 a.m.,PV32,Punto Verde,32,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+13/05/2020 10:43:15 a.m.,PV32,Punto Verde,32,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+15/04/2020 10:11:13 a.m.,PV32,Punto Verde,32,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+08/04/2020 10:44:17 a.m.,PV32,Punto Verde,32,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+23/03/2020 12:35:00 p.m.,PV32,Punto Verde,32,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+24/06/2020 11:13:48 a.m.,PV32,Punto Verde,32,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+27/05/2020 11:09:59 a.m.,PV32,Punto Verde,32,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+15/04/2020 10:11:13 a.m.,PV32,Punto Verde,32,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+08/04/2020 10:44:17 a.m.,PV32,Punto Verde,32,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+23/03/2020 12:35:00 p.m.,PV32,Punto Verde,32,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+17/06/2020 03:39:03 p.m.,PV32,Punto Verde,32,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+27/05/2020 11:09:59 a.m.,PV32,Punto Verde,32,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+08/04/2020 10:44:17 a.m.,PV32,Punto Verde,32,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+23/03/2020 12:35:00 p.m.,PV32,Punto Verde,32,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+24/06/2020 11:13:48 a.m.,PV32,Punto Verde,32,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+17/06/2020 03:39:03 p.m.,PV32,Punto Verde,32,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+13/05/2020 10:43:15 a.m.,PV32,Punto Verde,32,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+13/05/2020 10:43:15 a.m.,PV32,Punto Verde,32,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+15/04/2020 10:11:13 a.m.,PV32,Punto Verde,32,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+01/04/2020 09:25:44 a.m.,PV32,Punto Verde,32,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+01/04/2020 09:25:44 a.m.,PV32,Punto Verde,32,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+01/04/2020 09:25:44 a.m.,PV32,Punto Verde,32,Regular,"2,00",Plástico,Bajo,"1,00",Sí,Regular
+24/06/2020 11:13:48 a.m.,PV32,Punto Verde,32,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+20/03/2020 03:29:33 p.m.,PV32,Punto Verde,32,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+20/03/2020 03:29:33 p.m.,PV32,Punto Verde,32,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+20/03/2020 03:29:33 p.m.,PV32,Punto Verde,32,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+20/03/2020 02:59:00 p.m.,PV32,Punto Verde,32,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+20/03/2020 02:59:00 p.m.,PV32,Punto Verde,32,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+20/03/2020 02:59:00 p.m.,PV32,Punto Verde,32,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/03/2020 10:26:53 a.m.,PV32,Punto Verde,32,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+17/03/2020 10:26:53 a.m.,PV32,Punto Verde,32,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+17/03/2020 10:26:53 a.m.,PV32,Punto Verde,32,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/06/2020 03:39:29 p.m.,PV33,Punto Verde,33,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+27/05/2020 11:10:54 a.m.,PV33,Punto Verde,33,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+13/05/2020 10:44:07 a.m.,PV33,Punto Verde,33,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+08/04/2020 10:45:29 a.m.,PV33,Punto Verde,33,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+23/03/2020 12:39:17 p.m.,PV33,Punto Verde,33,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+08/04/2020 10:45:29 a.m.,PV33,Punto Verde,33,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+23/03/2020 12:39:17 p.m.,PV33,Punto Verde,33,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+17/06/2020 03:39:29 p.m.,PV33,Punto Verde,33,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+27/05/2020 11:10:54 a.m.,PV33,Punto Verde,33,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+08/04/2020 10:45:29 a.m.,PV33,Punto Verde,33,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+17/06/2020 03:39:29 p.m.,PV33,Punto Verde,33,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+27/05/2020 11:10:54 a.m.,PV33,Punto Verde,33,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+13/05/2020 10:44:07 a.m.,PV33,Punto Verde,33,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+13/05/2020 10:44:07 a.m.,PV33,Punto Verde,33,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+15/04/2020 10:12:26 a.m.,PV33,Punto Verde,33,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+15/04/2020 10:12:26 a.m.,PV33,Punto Verde,33,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+15/04/2020 10:12:26 a.m.,PV33,Punto Verde,33,Regular,"2,00",Plástico,Bajo,"1,00",Sí,Regular
+23/03/2020 12:39:17 p.m.,PV33,Punto Verde,33,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+20/03/2020 03:30:29 p.m.,PV33,Punto Verde,33,Buena,"1,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Buena
+01/04/2020 09:27:25 a.m.,PV33,Punto Verde,33,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+01/04/2020 09:27:25 a.m.,PV33,Punto Verde,33,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+01/04/2020 09:27:25 a.m.,PV33,Punto Verde,33,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+20/03/2020 03:30:29 p.m.,PV33,Punto Verde,33,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+20/03/2020 03:30:29 p.m.,PV33,Punto Verde,33,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/03/2020 10:28:02 a.m.,PV33,Punto Verde,33,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+17/03/2020 10:28:02 a.m.,PV33,Punto Verde,33,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+17/03/2020 10:28:02 a.m.,PV33,Punto Verde,33,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/06/2020 03:42:07 p.m.,PV34,Punto Verde,34,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+15/04/2020 10:14:28 a.m.,PV34,Punto Verde,34,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+01/04/2020 09:29:00 a.m.,PV34,Punto Verde,34,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+24/06/2020 01:37:52 p.m.,PV34,Punto Verde,34,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+13/05/2020 11:32:29 a.m.,PV34,Punto Verde,34,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+08/04/2020 10:47:06 a.m.,PV34,Punto Verde,34,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+01/04/2020 09:29:00 a.m.,PV34,Punto Verde,34,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+17/06/2020 03:42:07 p.m.,PV34,Punto Verde,34,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+01/04/2020 09:29:00 a.m.,PV34,Punto Verde,34,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+24/06/2020 01:37:52 p.m.,PV34,Punto Verde,34,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+17/06/2020 03:42:07 p.m.,PV34,Punto Verde,34,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+13/05/2020 11:32:29 a.m.,PV34,Punto Verde,34,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+13/05/2020 11:32:29 a.m.,PV34,Punto Verde,34,Regular,"2,00",Plástico,Bajo,"1,00",Sí,Regular
+15/04/2020 10:14:28 a.m.,PV34,Punto Verde,34,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+15/04/2020 10:14:28 a.m.,PV34,Punto Verde,34,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+08/04/2020 10:47:06 a.m.,PV34,Punto Verde,34,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+08/04/2020 10:47:06 a.m.,PV34,Punto Verde,34,Regular,"2,00",Plástico,Bajo,"1,00",Sí,Regular
+24/06/2020 01:37:52 p.m.,PV34,Punto Verde,34,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+17/03/2020 05:25:59 p.m.,PV34,Punto Verde,34,Buena,"1,00",Papel,Alto,"3,00",Sí,Buena
+17/03/2020 05:25:59 p.m.,PV34,Punto Verde,34,Buena,"1,00",Plástico,Alto,"3,00",Sí,Buena
+23/03/2020 12:44:27 p.m.,PV34,Punto Verde,34,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+23/03/2020 12:44:27 p.m.,PV34,Punto Verde,34,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+23/03/2020 12:44:27 p.m.,PV34,Punto Verde,34,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+20/03/2020 03:35:57 p.m.,PV34,Punto Verde,34,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+20/03/2020 03:35:57 p.m.,PV34,Punto Verde,34,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+20/03/2020 03:35:57 p.m.,PV34,Punto Verde,34,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+20/03/2020 02:59:54 p.m.,PV34,Punto Verde,34,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+20/03/2020 02:59:54 p.m.,PV34,Punto Verde,34,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+20/03/2020 02:59:54 p.m.,PV34,Punto Verde,34,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/03/2020 05:25:59 p.m.,PV34,Punto Verde,34,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+17/06/2020 03:42:41 p.m.,PV35,Punto Verde,35,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+13/05/2020 11:32:55 a.m.,PV35,Punto Verde,35,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+15/04/2020 10:14:55 a.m.,PV35,Punto Verde,35,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+08/04/2020 10:47:30 a.m.,PV35,Punto Verde,35,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+24/06/2020 01:38:59 p.m.,PV35,Punto Verde,35,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+17/06/2020 03:42:41 p.m.,PV35,Punto Verde,35,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+13/05/2020 11:32:55 a.m.,PV35,Punto Verde,35,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+15/04/2020 10:14:55 a.m.,PV35,Punto Verde,35,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+08/04/2020 10:47:30 a.m.,PV35,Punto Verde,35,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+17/06/2020 03:42:41 p.m.,PV35,Punto Verde,35,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+08/04/2020 10:47:30 a.m.,PV35,Punto Verde,35,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+24/06/2020 01:38:59 p.m.,PV35,Punto Verde,35,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+13/05/2020 11:32:55 a.m.,PV35,Punto Verde,35,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+15/04/2020 10:14:55 a.m.,PV35,Punto Verde,35,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+24/06/2020 01:38:59 p.m.,PV35,Punto Verde,35,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+01/04/2020 09:29:53 a.m.,PV35,Punto Verde,35,Buena,"1,00",Plástico,Bajo,"1,00",Sí,Buena
+20/03/2020 03:37:18 p.m.,PV35,Punto Verde,35,Buena,"1,00",Plástico,Alto,"3,00",Sí,Buena
+01/04/2020 09:29:53 a.m.,PV35,Punto Verde,35,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+01/04/2020 09:29:53 a.m.,PV35,Punto Verde,35,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+23/03/2020 12:45:24 p.m.,PV35,Punto Verde,35,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+23/03/2020 12:45:24 p.m.,PV35,Punto Verde,35,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+23/03/2020 12:45:24 p.m.,PV35,Punto Verde,35,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+20/03/2020 03:37:18 p.m.,PV35,Punto Verde,35,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+20/03/2020 03:37:18 p.m.,PV35,Punto Verde,35,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+17/03/2020 05:26:42 p.m.,PV35,Punto Verde,35,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+17/03/2020 05:26:42 p.m.,PV35,Punto Verde,35,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+17/03/2020 05:26:42 p.m.,PV35,Punto Verde,35,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+13/05/2020 11:45:50 a.m.,PV36,Punto Verde,36,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+15/04/2020 10:16:55 a.m.,PV36,Punto Verde,36,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+08/04/2020 10:48:49 a.m.,PV36,Punto Verde,36,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+24/06/2020 01:39:49 p.m.,PV36,Punto Verde,36,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+13/05/2020 11:45:50 a.m.,PV36,Punto Verde,36,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+15/04/2020 10:16:55 a.m.,PV36,Punto Verde,36,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+08/04/2020 10:48:49 a.m.,PV36,Punto Verde,36,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+13/05/2020 11:45:50 a.m.,PV36,Punto Verde,36,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+08/04/2020 10:48:49 a.m.,PV36,Punto Verde,36,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+24/06/2020 01:39:49 p.m.,PV36,Punto Verde,36,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+17/06/2020 03:43:19 p.m.,PV36,Punto Verde,36,Regular,"2,00",Papel,Medio,"2,00",No,Regular
+17/06/2020 03:43:19 p.m.,PV36,Punto Verde,36,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",No,Regular
+17/06/2020 03:43:19 p.m.,PV36,Punto Verde,36,Regular,"2,00",Plástico,Medio,"2,00",No,Regular
+15/04/2020 10:16:55 a.m.,PV36,Punto Verde,36,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+24/06/2020 01:39:49 p.m.,PV36,Punto Verde,36,Regular,"2,00",Papel,Bajo,"1,00",Sí,Regular
+17/03/2020 05:27:51 p.m.,PV36,Punto Verde,36,Buena,"1,00",Plástico,Alto,"3,00",Sí,Buena
+01/04/2020 09:32:42 a.m.,PV36,Punto Verde,36,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+01/04/2020 09:32:42 a.m.,PV36,Punto Verde,36,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+01/04/2020 09:32:42 a.m.,PV36,Punto Verde,36,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+23/03/2020 12:46:43 p.m.,PV36,Punto Verde,36,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+23/03/2020 12:46:43 p.m.,PV36,Punto Verde,36,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+23/03/2020 12:46:43 p.m.,PV36,Punto Verde,36,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+20/03/2020 03:37:56 p.m.,PV36,Punto Verde,36,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+20/03/2020 03:37:56 p.m.,PV36,Punto Verde,36,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+20/03/2020 03:37:56 p.m.,PV36,Punto Verde,36,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/03/2020 05:27:51 p.m.,PV36,Punto Verde,36,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+17/03/2020 05:27:51 p.m.,PV36,Punto Verde,36,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+01/04/2020 09:32:15 a.m.,PV38,Punto Verde,38,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+01/04/2020 09:32:15 a.m.,PV38,Punto Verde,38,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+01/04/2020 09:32:15 a.m.,PV38,Punto Verde,38,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+13/03/2020 09:17:39 a.m.,PV4,Punto Verde,4,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+13/03/2020 09:17:39 a.m.,PV4,Punto Verde,4,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+13/03/2020 09:17:39 a.m.,PV4,Punto Verde,4,Regular,"2,00",Papel,Alto,"3,00",Sí,Regular
+17/03/2020 10:41:10 a.m.,PV4,Punto Verde,4,Buena,"1,00","Vidrio, Metal, Tetra",Nulo,,Sí,Buena
+17/03/2020 10:41:10 a.m.,PV4,Punto Verde,4,Buena,"1,00",Plástico,Bajo,"1,00",Sí,Buena
+17/03/2020 10:31:30 a.m.,PV4,Punto Verde,4,Buena,"1,00",Plástico,Alto,"3,00",Sí,Buena
+20/03/2020 10:20:48 a.m.,PV4,Punto Verde,4,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+20/03/2020 10:20:48 a.m.,PV4,Punto Verde,4,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+20/03/2020 10:20:48 a.m.,PV4,Punto Verde,4,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/03/2020 10:41:10 a.m.,PV4,Punto Verde,4,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+17/03/2020 10:31:30 a.m.,PV4,Punto Verde,4,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+17/03/2020 10:31:30 a.m.,PV4,Punto Verde,4,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+13/03/2020 08:00:45 a.m.,PV5,Punto Verde,5,Buena,"1,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Buena
+13/03/2020 08:00:45 a.m.,PV5,Punto Verde,5,Buena,"1,00",Plástico,Alto,"3,00",Sí,Buena
+13/03/2020 08:00:45 a.m.,PV5,Punto Verde,5,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+15/04/2020 10:24:57 a.m.,PV7,Punto Verde,7,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+08/04/2020 12:17:18 p.m.,PV7,Punto Verde,7,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+15/04/2020 10:24:57 a.m.,PV7,Punto Verde,7,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+08/04/2020 12:17:18 p.m.,PV7,Punto Verde,7,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+15/04/2020 10:24:57 a.m.,PV7,Punto Verde,7,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+08/04/2020 12:17:18 p.m.,PV7,Punto Verde,7,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+17/06/2020 03:49:01 p.m.,PV7,Punto Verde,7,Buena,"1,00",Papel,Alto,"3,00",Sí,Buena
+17/06/2020 03:49:01 p.m.,PV7,Punto Verde,7,Buena,"1,00","Vidrio, Metal, Tetra",Alto,"3,00",Sí,Buena
+17/06/2020 03:49:01 p.m.,PV7,Punto Verde,7,Buena,"1,00",Plástico,Alto,"3,00",Sí,Buena
+01/04/2020 01:46:19 p.m.,PV7,Punto Verde,7,Buena,"1,00",Papel,Alto,"3,00",Sí,Buena
+01/04/2020 01:46:19 p.m.,PV7,Punto Verde,7,Buena,"1,00","Vidrio, Metal, Tetra",Alto,"3,00",Sí,Buena
+01/04/2020 01:46:19 p.m.,PV7,Punto Verde,7,Buena,"1,00",Plástico,Alto,"3,00",Sí,Buena
+20/03/2020 10:10:20 a.m.,PV7,Punto Verde,7,Buena,"1,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Buena
+17/03/2020 06:00:20 p.m.,PV7,Punto Verde,7,Buena,"1,00",Papel,Alto,"3,00",Sí,Buena
+17/03/2020 06:00:20 p.m.,PV7,Punto Verde,7,Buena,"1,00",Plástico,Alto,"3,00",Sí,Buena
+24/06/2020 01:50:39 p.m.,PV7,Punto Verde,7,Buena,"1,00",Papel,Bajo,"1,00",Sí,Buena
+23/03/2020 01:05:01 p.m.,PV7,Punto Verde,7,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+23/03/2020 01:05:01 p.m.,PV7,Punto Verde,7,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+23/03/2020 01:05:01 p.m.,PV7,Punto Verde,7,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+20/03/2020 10:10:20 a.m.,PV7,Punto Verde,7,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+20/03/2020 10:10:20 a.m.,PV7,Punto Verde,7,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/03/2020 06:00:20 p.m.,PV7,Punto Verde,7,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+24/06/2020 01:50:39 p.m.,PV7,Punto Verde,7,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+24/06/2020 01:50:39 p.m.,PV7,Punto Verde,7,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+15/04/2020 03:13:10 p.m.,PV8,Punto Verde,8,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+08/04/2020 12:30:11 p.m.,PV8,Punto Verde,8,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+20/03/2020 02:37:22 p.m.,PV8,Punto Verde,8,Regular,"2,00",Plástico,Medio,"2,00",Sí,Regular
+15/04/2020 03:13:10 p.m.,PV8,Punto Verde,8,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+08/04/2020 12:30:11 p.m.,PV8,Punto Verde,8,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+20/03/2020 02:37:22 p.m.,PV8,Punto Verde,8,Regular,"2,00",Papel,Medio,"2,00",Sí,Regular
+20/03/2020 02:37:22 p.m.,PV8,Punto Verde,8,Regular,"2,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Regular
+15/04/2020 03:13:10 p.m.,PV8,Punto Verde,8,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+08/04/2020 12:30:11 p.m.,PV8,Punto Verde,8,Regular,"2,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Regular
+17/03/2020 10:39:13 a.m.,PV8,Punto Verde,8,Buena,"1,00",Papel,Alto,"3,00",Sí,Buena
+17/03/2020 10:39:13 a.m.,PV8,Punto Verde,8,Buena,"1,00",Plástico,Alto,"3,00",Sí,Buena
+17/03/2020 10:12:22 a.m.,PV8,Punto Verde,8,Buena,"1,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Buena
+17/03/2020 10:12:22 a.m.,PV8,Punto Verde,8,Buena,"1,00",Plástico,Alto,"3,00",Sí,Buena
+01/04/2020 01:50:00 p.m.,PV8,Punto Verde,8,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+01/04/2020 01:50:00 p.m.,PV8,Punto Verde,8,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+01/04/2020 01:50:00 p.m.,PV8,Punto Verde,8,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+23/03/2020 01:12:14 p.m.,PV8,Punto Verde,8,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+23/03/2020 01:12:14 p.m.,PV8,Punto Verde,8,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+23/03/2020 01:12:14 p.m.,PV8,Punto Verde,8,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+17/03/2020 10:39:13 a.m.,PV8,Punto Verde,8,Buena,"1,00","Vidrio, Metal, Tetra",Medio,"2,00",Sí,Buena
+17/03/2020 10:12:22 a.m.,PV8,Punto Verde,8,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+17/03/2020 10:33:28 a.m.,PV9,Punto Verde,9,Buena,"1,00","Vidrio, Metal, Tetra",Bajo,"1,00",Sí,Buena
+17/03/2020 10:33:28 a.m.,PV9,Punto Verde,9,Buena,"1,00",Papel,Medio,"2,00",Sí,Buena
+17/03/2020 10:33:28 a.m.,PV9,Punto Verde,9,Buena,"1,00",Plástico,Medio,"2,00",Sí,Buena
+43923,R1,Rulero,1,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43914,R1,Rulero,1,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43930,R1,Rulero,1,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43937,R1,Rulero,1,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43910,R1,Rulero,1,Buena,"1,00",PET,Alto,"3,00",Sí,Buena
+43903,R1,Rulero,1,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43907,R1,Rulero,1,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43923,R3,Rulero,3,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43930,R3,Rulero,3,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43937,R3,Rulero,3,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43914,R3,Rulero,3,Regular,"2,00",PET,Medio,"2,00",No,Regular
+43907,R3,Rulero,3,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43910,R3,Rulero,3,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43911,R4,Rulero,4,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+44000,R5,Rulero,5,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43930,R5,Rulero,5,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43936,R5,Rulero,5,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43937,R5,Rulero,5,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43908,R5,Rulero,5,Buena,"1,00",PET,Alto,"3,00",Sí,Buena
+43907,R8,Rulero,8,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43914,R8,Rulero,8,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43923,R8,Rulero,8,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43930,R8,Rulero,8,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43937,R8,Rulero,8,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43910,R8,Rulero,8,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43907,R9,Rulero,9,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43914,R9,Rulero,9,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43923,R9,Rulero,9,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43930,R9,Rulero,9,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43937,R9,Rulero,9,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43907,R9,Rulero,9,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43911,R9,Rulero,9,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43911,R11,Rulero,11,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43914,R11,Rulero,11,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43923,R11,Rulero,11,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43930,R11,Rulero,11,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43930,R11,Rulero,11,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43937,R11,Rulero,11,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43907,R11,Rulero,11,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43923,R12,Rulero,12,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43978,R12,Rulero,12,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43914,R12,Rulero,12,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43930,R13,Rulero,13,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43978,R13,Rulero,13,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43914,R13,Rulero,13,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43923,R13,Rulero,13,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43923,R14,Rulero,14,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43930,R14,Rulero,14,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43936,R14,Rulero,14,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43914,R14,Rulero,14,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43922,R14,Rulero,14,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43978,R14,Rulero,14,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+44000,R15,Rulero,15,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43914,R15,Rulero,15,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43930,R15,Rulero,15,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+44007,R15,Rulero,15,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43922,R15,Rulero,15,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43936,R15,Rulero,15,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43908,R15,Rulero,15,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43910,R15,Rulero,15,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+44000,R16,Rulero,16,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43929,R16,Rulero,16,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+44006,R16,Rulero,16,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43913,R16,Rulero,16,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43936,R16,Rulero,16,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43964,R16,Rulero,16,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43907,R16,Rulero,16,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43911,R16,Rulero,16,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43914,R17,Rulero,17,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43907,R17,Rulero,17,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43911,R17,Rulero,17,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43922,R18,Rulero,18,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43929,R18,Rulero,18,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43978,R18,Rulero,18,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+44006,R18,Rulero,18,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43913,R18,Rulero,18,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43936,R18,Rulero,18,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43964,R18,Rulero,18,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43907,R18,Rulero,18,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43911,R18,Rulero,18,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+44000,R19,Rulero,19,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43907,R19,Rulero,19,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43908,R19,Rulero,19,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43914,R19,Rulero,19,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43930,R19,Rulero,19,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43936,R19,Rulero,19,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+44007,R19,Rulero,19,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43911,R19,Rulero,19,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+44000,R19,Rulero,19,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43913,R19,Rulero,19,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43922,R19,Rulero,19,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43922,R19,Rulero,19,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43929,R19,Rulero,19,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43936,R19,Rulero,19,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43964,R19,Rulero,19,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43978,R19,Rulero,19,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+44006,R19,Rulero,19,Buena,"1,00",PET,Bajo,"1,00",Sí,Buena
+43910,R19,Rulero,19,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+44000,R20,Rulero,20,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43914,R20,Rulero,20,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43922,R20,Rulero,20,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43930,R20,Rulero,20,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+44007,R20,Rulero,20,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43936,R20,Rulero,20,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43908,R20,Rulero,20,Buena,"1,00",PET,Alto,"3,00",Sí,Buena
+43914,R21,Rulero,21,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43908,R21,Rulero,21,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+44000,R22,Rulero,22,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43908,R22,Rulero,22,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43914,R22,Rulero,22,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43930,R22,Rulero,22,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43936,R22,Rulero,22,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+44007,R22,Rulero,22,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43922,R22,Rulero,22,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43911,R23,Rulero,23,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43930,R23,Rulero,23,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43937,R23,Rulero,23,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43964,R23,Rulero,23,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43907,R23,Rulero,23,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+44000,R23,Rulero,23,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+44000,R23,Rulero,23,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43914,R23,Rulero,23,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43923,R23,Rulero,23,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43907,R24,Rulero,24,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43911,R24,Rulero,24,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43978,R24,Rulero,24,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+44000,R24,Rulero,24,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43914,R24,Rulero,24,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43922,R24,Rulero,24,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43929,R24,Rulero,24,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43936,R24,Rulero,24,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43964,R24,Rulero,24,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+44006,R24,Rulero,24,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+44000,R25,Rulero,25,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43914,R25,Rulero,25,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+44007,R25,Rulero,25,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43922,R25,Rulero,25,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43930,R25,Rulero,25,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43936,R25,Rulero,25,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43908,R25,Rulero,25,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43910,R25,Rulero,25,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43914,R26,Rulero,26,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43922,R26,Rulero,26,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43930,R26,Rulero,26,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43936,R26,Rulero,26,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+44007,R26,Rulero,26,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+44000,R26,Rulero,26,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43908,R26,Rulero,26,Buena,"1,00",PET,Alto,"3,00",Sí,Buena
+44000,R27,Rulero,27,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43914,R27,Rulero,27,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43922,R27,Rulero,27,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43930,R27,Rulero,27,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43936,R27,Rulero,27,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43908,R27,Rulero,27,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+44000,R28,Rulero,28,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43930,R28,Rulero,28,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+44007,R28,Rulero,28,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+44007,R28,Rulero,28,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43922,R28,Rulero,28,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43936,R28,Rulero,28,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43908,R28,Rulero,28,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+44000,R29,Rulero,29,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43922,R29,Rulero,29,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43929,R29,Rulero,29,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43930,R29,Rulero,29,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43964,R29,Rulero,29,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43978,R29,Rulero,29,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+44007,R29,Rulero,29,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43914,R29,Rulero,29,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43936,R29,Rulero,29,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43908,R29,Rulero,29,Buena,"1,00",PET,Alto,"3,00",Sí,Buena
+43911,R29,Rulero,29,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43913,R29,Rulero,29,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+44000,R30,Rulero,30,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43914,R30,Rulero,30,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43922,R30,Rulero,30,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43929,R30,Rulero,30,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+44007,R30,Rulero,30,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43936,R30,Rulero,30,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43964,R30,Rulero,30,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43911,R30,Rulero,30,Buena,"1,00",PET,Alto,"3,00",Sí,Buena
+43908,R30,Rulero,30,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43978,R31,Rulero,31,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43907,R31,Rulero,31,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43922,R31,Rulero,31,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43929,R31,Rulero,31,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43936,R31,Rulero,31,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43964,R31,Rulero,31,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43914,R31,Rulero,31,Mala,"3,00",PET,Bajo,"1,00",Sí,Mala
+43907,R32,Rulero,32,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43978,R32,Rulero,32,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43911,R32,Rulero,32,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43914,R32,Rulero,32,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43922,R32,Rulero,32,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43929,R32,Rulero,32,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43936,R32,Rulero,32,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43964,R32,Rulero,32,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43907,R32,Rulero,32,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43911,R32,Rulero,32,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43911,R32,Rulero,32,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43911,R33,Rulero,33,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43911,R33,Rulero,33,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43911,R33,Rulero,33,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43914,R33,Rulero,33,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43914,R33,Rulero,33,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43929,R33,Rulero,33,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43936,R33,Rulero,33,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43964,R33,Rulero,33,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43978,R33,Rulero,33,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43978,R34,Rulero,34,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+44006,R34,Rulero,34,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+44000,R34,Rulero,34,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43922,R34,Rulero,34,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43929,R34,Rulero,34,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43936,R34,Rulero,34,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43964,R34,Rulero,34,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43907,R34,Rulero,34,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+44000,R35,Rulero,35,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43914,R35,Rulero,35,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43978,R35,Rulero,35,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43922,R35,Rulero,35,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43929,R35,Rulero,35,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43936,R35,Rulero,35,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43964,R35,Rulero,35,Buena,"1,00",PET,Alto,"3,00",Sí,Buena
+43907,R35,Rulero,35,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43911,R35,Rulero,35,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+44000,R36,Rulero,36,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43914,R36,Rulero,36,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43929,R36,Rulero,36,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43964,R36,Rulero,36,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+44007,R36,Rulero,36,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43922,R36,Rulero,36,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43936,R36,Rulero,36,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43911,R36,Rulero,36,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43922,R37,Rulero,37,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43929,R37,Rulero,37,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43936,R37,Rulero,37,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43964,R37,Rulero,37,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+44006,R37,Rulero,37,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+44000,R38,Rulero,38,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43914,R38,Rulero,38,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43929,R38,Rulero,38,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43936,R38,Rulero,38,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43922,R38,Rulero,38,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43964,R38,Rulero,38,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+44007,R38,Rulero,38,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43908,R38,Rulero,38,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+43911,R38,Rulero,38,Buena,"1,00",PET,Medio,"2,00",Sí,Buena
+44000,R39,Rulero,39,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43908,R39,Rulero,39,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43914,R39,Rulero,39,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43922,R39,Rulero,39,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43936,R39,Rulero,39,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43964,R39,Rulero,39,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43911,R39,Rulero,39,Mala,"3,00",PET,Bajo,"1,00",Sí,Mala
+43929,R39,Rulero,39,Mala,"3,00",PET,Bajo,"1,00",Sí,Mala
+43929,R40,Rulero,40,Regular,"2,00",PET,Medio,"2,00",Sí,Regular
+43908,R40,Rulero,40,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+44000,R40,Rulero,40,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43911,R40,Rulero,40,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43914,R40,Rulero,40,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43922,R40,Rulero,40,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43936,R40,Rulero,40,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+43964,R40,Rulero,40,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
+44007,R40,Rulero,40,Regular,"2,00",PET,Bajo,"1,00",Sí,Regular
