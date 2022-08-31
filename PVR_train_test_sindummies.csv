@@ -1,806 +1,799 @@
-﻿Target,TipoResiduo,CantidadNum,punto_tipo,desocupados,0-14,65_mas,hacinamiento,densidad_comercios
-Apto,Papel,2.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-Apto,Plástico,2.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-Apto,Papel,3.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-Apto,"Vidrio, Metal, Tetra",3.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-Apto,Plástico,3.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-Apto,Papel,3.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-Apto,"Vidrio, Metal, Tetra",3.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-Apto,Plástico,3.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-Apto,Papel,2.0,Punto verde,24.0,49.0,92.0,0.0,17.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,24.0,49.0,92.0,0.0,17.0
-Apto,Plástico,2.0,Punto verde,24.0,49.0,92.0,0.0,17.0
-NoApto,Plástico,2.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-NoApto,Papel,2.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-NoApto,Plástico,2.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-NoApto,Papel,2.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-NoApto,Papel,2.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,Plástico,1.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,Papel,2.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-NoApto,Plástico,1.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-NoApto,Plástico,2.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,Papel,1.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-Apto,Papel,2.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-Apto,Plástico,2.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-NoApto,Papel,2.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,Plástico,1.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,Papel,1.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,Plástico,1.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,Papel,1.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,Plástico,1.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-Apto,Papel,2.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-Apto,Plástico,2.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-NoApto,Plástico,2.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-NoApto,Papel,2.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-Apto,Plástico,1.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-Apto,Papel,2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-Apto,Papel,2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-Apto,Plástico,2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-NoApto,Papel,2.0,Punto verde,25.0,81.0,136.0,1.0,55.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,25.0,81.0,136.0,1.0,55.0
-NoApto,Plástico,1.0,Punto verde,25.0,81.0,136.0,1.0,55.0
-NoApto,Plástico,2.0,Punto verde,25.0,81.0,136.0,1.0,37.0
-NoApto,Papel,2.0,Punto verde,25.0,81.0,136.0,1.0,37.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,25.0,81.0,136.0,1.0,37.0
-NoApto,Plástico,2.0,Punto verde,10.0,86.0,80.0,1.0,25.0
-NoApto,Papel,2.0,Punto verde,10.0,86.0,80.0,1.0,25.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,10.0,86.0,80.0,1.0,25.0
-NoApto,Plástico,2.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-NoApto,Papel,2.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-NoApto,Papel,2.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,Plástico,1.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,Papel,1.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,Plástico,1.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,Plástico,2.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-NoApto,Papel,2.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-NoApto,Papel,2.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,Plástico,1.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,Plástico,2.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,Papel,2.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,Plástico,2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,Papel,2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,Plástico,2.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-NoApto,Papel,2.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-NoApto,Papel,2.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-NoApto,Plástico,1.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-NoApto,Plástico,2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-NoApto,Papel,2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-NoApto,Plástico,2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-NoApto,Papel,2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-NoApto,Plástico,2.0,Punto verde,25.0,81.0,136.0,1.0,55.0
-NoApto,Papel,2.0,Punto verde,25.0,81.0,136.0,1.0,55.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,25.0,81.0,136.0,1.0,55.0
-NoApto,Plástico,2.0,Punto verde,25.0,81.0,136.0,1.0,37.0
-NoApto,Papel,2.0,Punto verde,25.0,81.0,136.0,1.0,37.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,25.0,81.0,136.0,1.0,37.0
-NoApto,Plástico,2.0,Punto verde,10.0,86.0,80.0,1.0,25.0
-NoApto,Papel,2.0,Punto verde,10.0,86.0,80.0,1.0,25.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,10.0,86.0,80.0,1.0,25.0
-Apto,Papel,2.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-Apto,Plástico,2.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-NoApto,Plástico,2.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-NoApto,Papel,2.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-NoApto,Plástico,2.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-NoApto,Papel,2.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-NoApto,Plástico,2.0,Punto verde,39.0,190.0,97.0,1.0,0.0
-NoApto,Papel,2.0,Punto verde,39.0,190.0,97.0,1.0,0.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,39.0,190.0,97.0,1.0,0.0
-NoApto,Plástico,2.0,Punto verde,24.0,49.0,92.0,0.0,17.0
-NoApto,Papel,2.0,Punto verde,24.0,49.0,92.0,0.0,17.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,24.0,49.0,92.0,0.0,17.0
-Apto,"Vidrio, Metal, Tetra",1.0,Punto verde,31.0,170.0,82.0,4.0,16.0
-Apto,Plástico,3.0,Punto verde,31.0,170.0,82.0,4.0,16.0
-Apto,Papel,2.0,Punto verde,31.0,170.0,82.0,4.0,16.0
-NoApto,Plástico,2.0,Punto verde,46.0,182.0,195.0,2.0,12.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,46.0,182.0,195.0,2.0,12.0
-NoApto,Papel,3.0,Punto verde,46.0,182.0,195.0,2.0,12.0
-Apto,"Vidrio, Metal, Tetra",1.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-Apto,Papel,2.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-Apto,Plástico,2.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-NoApto,Plástico,2.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,Papel,2.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,Plástico,2.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,Papel,2.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,Plástico,2.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-NoApto,Papel,2.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-NoApto,Plástico,2.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-NoApto,Papel,2.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-NoApto,Papel,2.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,Plástico,1.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,Plástico,2.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,Papel,1.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,Plástico,2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,Papel,1.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,Plástico,2.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-NoApto,Papel,1.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-NoApto,Papel,2.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-NoApto,Plástico,1.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-NoApto,Plástico,2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-NoApto,Papel,2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-NoApto,Plástico,2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-NoApto,Papel,2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-NoApto,Plástico,2.0,Punto verde,24.0,49.0,92.0,0.0,17.0
-NoApto,Papel,2.0,Punto verde,24.0,49.0,92.0,0.0,17.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,24.0,49.0,92.0,0.0,17.0
-NoApto,Plástico,2.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,Papel,2.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,Papel,2.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,Plástico,1.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,Plástico,2.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-NoApto,Papel,2.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-NoApto,Plástico,2.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-NoApto,Papel,2.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-NoApto,Plástico,2.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,Papel,2.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,Plástico,2.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,Papel,2.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,Plástico,2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,Papel,2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,Papel,1.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-NoApto,Plástico,1.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-NoApto,Plástico,2.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-NoApto,Papel,1.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-NoApto,Plástico,2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-NoApto,Papel,2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-NoApto,Plástico,2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-NoApto,Papel,2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-NoApto,Plástico,2.0,Punto verde,25.0,81.0,136.0,1.0,55.0
-NoApto,Papel,2.0,Punto verde,25.0,81.0,136.0,1.0,55.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,25.0,81.0,136.0,1.0,55.0
-NoApto,Plástico,2.0,Punto verde,25.0,81.0,136.0,1.0,37.0
-NoApto,Papel,2.0,Punto verde,25.0,81.0,136.0,1.0,37.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,25.0,81.0,136.0,1.0,37.0
-Apto,Papel,2.0,Punto verde,10.0,86.0,80.0,1.0,25.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,10.0,86.0,80.0,1.0,25.0
-Apto,Plástico,2.0,Punto verde,10.0,86.0,80.0,1.0,25.0
-NoApto,Plástico,2.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-NoApto,Papel,2.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-NoApto,Plástico,2.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-NoApto,Papel,2.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-NoApto,Plástico,2.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-NoApto,Papel,2.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-NoApto,Plástico,2.0,Punto verde,39.0,190.0,97.0,1.0,0.0
-NoApto,Papel,2.0,Punto verde,39.0,190.0,97.0,1.0,0.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,39.0,190.0,97.0,1.0,0.0
-Apto,Papel,3.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-Apto,Plástico,3.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-Apto,Papel,2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-Apto,Plástico,2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-Apto,Plástico,3.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-Apto,Papel,2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-NoApto,Plástico,2.0,Punto verde,17.0,80.0,121.0,0.0,16.0
-NoApto,Papel,2.0,Punto verde,17.0,80.0,121.0,0.0,16.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,17.0,80.0,121.0,0.0,16.0
-Apto,Papel,2.0,Punto verde,25.0,81.0,136.0,1.0,55.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,25.0,81.0,136.0,1.0,55.0
-Apto,Plástico,2.0,Punto verde,25.0,81.0,136.0,1.0,55.0
-Apto,"Vidrio, Metal, Tetra",1.0,Punto verde,25.0,81.0,136.0,1.0,37.0
-Apto,Papel,2.0,Punto verde,25.0,81.0,136.0,1.0,37.0
-Apto,Plástico,2.0,Punto verde,25.0,81.0,136.0,1.0,37.0
-Apto,Papel,3.0,Punto verde,10.0,86.0,80.0,1.0,25.0
-Apto,"Vidrio, Metal, Tetra",3.0,Punto verde,10.0,86.0,80.0,1.0,25.0
-Apto,Plástico,3.0,Punto verde,10.0,86.0,80.0,1.0,25.0
-Apto,Papel,3.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-Apto,"Vidrio, Metal, Tetra",3.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-Apto,Plástico,3.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-Apto,Papel,3.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-Apto,Plástico,3.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-Apto,Papel,2.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-Apto,Plástico,2.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-Apto,Papel,3.0,Punto verde,39.0,190.0,97.0,1.0,0.0
-Apto,"Vidrio, Metal, Tetra",3.0,Punto verde,39.0,190.0,97.0,1.0,0.0
-Apto,Plástico,3.0,Punto verde,39.0,190.0,97.0,1.0,0.0
-Apto,"Vidrio, Metal, Tetra",1.0,Punto verde,24.0,49.0,92.0,0.0,17.0
-Apto,Plástico,3.0,Punto verde,24.0,49.0,92.0,0.0,17.0
-Apto,Papel,2.0,Punto verde,24.0,49.0,92.0,0.0,17.0
-Apto,"Vidrio, Metal, Tetra",1.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-Apto,Plástico,3.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-Apto,Papel,2.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-Apto,Papel,2.0,Punto verde,25.0,91.0,142.0,0.0,75.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,25.0,91.0,142.0,0.0,75.0
-Apto,Plástico,2.0,Punto verde,25.0,91.0,142.0,0.0,75.0
-Apto,Papel,2.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-Apto,Plástico,2.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-Apto,"Vidrio, Metal, Tetra",1.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-Apto,Papel,2.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-Apto,Plástico,2.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-Apto,"Vidrio, Metal, Tetra",1.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-Apto,Papel,2.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-Apto,Plástico,2.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-Apto,"Vidrio, Metal, Tetra",1.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-Apto,Papel,2.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-Apto,Plástico,2.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-Apto,Papel,2.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-Apto,Plástico,2.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-Apto,Papel,2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-Apto,Plástico,2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-Apto,Papel,2.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-Apto,Plástico,2.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-Apto,Plástico,3.0,Punto verde,46.0,182.0,195.0,2.0,12.0
-Apto,Papel,2.0,Punto verde,46.0,182.0,195.0,2.0,12.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,46.0,182.0,195.0,2.0,12.0
-Apto,"Vidrio, Metal, Tetra",1.0,Punto verde,19.0,204.0,155.0,2.0,25.0
-Apto,Papel,2.0,Punto verde,19.0,204.0,155.0,2.0,25.0
-Apto,Plástico,2.0,Punto verde,19.0,204.0,155.0,2.0,25.0
-Apto,"Vidrio, Metal, Tetra",1.0,Punto verde,21.0,104.0,120.0,2.0,2.0
-Apto,Papel,2.0,Punto verde,21.0,104.0,120.0,2.0,2.0
-Apto,Plástico,2.0,Punto verde,21.0,104.0,120.0,2.0,2.0
-Apto,Papel,3.0,Punto verde,24.0,49.0,92.0,0.0,17.0
-Apto,Plástico,3.0,Punto verde,24.0,49.0,92.0,0.0,17.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,24.0,49.0,92.0,0.0,17.0
-Apto,Plástico,1.0,Punto verde,46.0,182.0,195.0,2.0,12.0
-Apto,Papel,2.0,Punto verde,46.0,182.0,195.0,2.0,12.0
-Apto,"Vidrio, Metal, Tetra",1.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-Apto,Papel,2.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-Apto,Plástico,2.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-NoApto,Plástico,2.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,Papel,1.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,Plástico,2.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,Papel,1.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,Plástico,2.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-NoApto,Papel,1.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-NoApto,Plástico,2.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-NoApto,Papel,1.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-NoApto,Plástico,2.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,Papel,1.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,Plástico,2.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,Papel,1.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,Plástico,2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,Papel,1.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,Plástico,2.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-NoApto,Papel,1.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-NoApto,Plástico,2.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-NoApto,Papel,1.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-NoApto,Plástico,2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-NoApto,Papel,2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-NoApto,Papel,2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-NoApto,Plástico,2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-NoApto,Plástico,2.0,Punto verde,25.0,81.0,136.0,1.0,55.0
-NoApto,Papel,2.0,Punto verde,25.0,81.0,136.0,1.0,55.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,25.0,81.0,136.0,1.0,55.0
-NoApto,Plástico,2.0,Punto verde,25.0,81.0,136.0,1.0,37.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,25.0,81.0,136.0,1.0,37.0
-NoApto,Papel,1.0,Punto verde,25.0,81.0,136.0,1.0,37.0
-Apto,Papel,3.0,Punto verde,10.0,86.0,80.0,1.0,25.0
-Apto,"Vidrio, Metal, Tetra",3.0,Punto verde,10.0,86.0,80.0,1.0,25.0
-Apto,Plástico,3.0,Punto verde,10.0,86.0,80.0,1.0,25.0
-Apto,Papel,3.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-Apto,"Vidrio, Metal, Tetra",3.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-Apto,Plástico,3.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-Apto,Papel,3.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-Apto,"Vidrio, Metal, Tetra",3.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-Apto,Plástico,3.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-NoApto,Plástico,2.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-NoApto,Papel,2.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-NoApto,Plástico,2.0,Punto verde,39.0,190.0,97.0,1.0,0.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,39.0,190.0,97.0,1.0,0.0
-NoApto,Papel,1.0,Punto verde,39.0,190.0,97.0,1.0,0.0
-NoApto,Plástico,2.0,Punto verde,24.0,49.0,92.0,0.0,17.0
-NoApto,Papel,2.0,Punto verde,24.0,49.0,92.0,0.0,17.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,24.0,49.0,92.0,0.0,17.0
-Apto,"Vidrio, Metal, Tetra",1.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-Apto,Papel,2.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-Apto,Plástico,2.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-Apto,Papel,2.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-Apto,Plástico,2.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-Apto,Papel,2.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-Apto,Plástico,2.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-Apto,"Vidrio, Metal, Tetra",1.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-Apto,Papel,2.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-Apto,Plástico,2.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-Apto,Papel,2.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-Apto,Plástico,2.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-Apto,Papel,2.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-Apto,Plástico,2.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-Apto,Papel,2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-Apto,Plástico,2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-Apto,Papel,2.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-Apto,Plástico,2.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-Apto,Papel,2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-Apto,Plástico,2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-Apto,"Vidrio, Metal, Tetra",1.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-Apto,Papel,2.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-Apto,Plástico,2.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-Apto,Papel,2.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-Apto,Plástico,2.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-Apto,Plástico,3.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-Apto,Papel,2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-Apto,Papel,2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-Apto,Plástico,2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-Apto,Papel,3.0,Punto verde,39.0,190.0,97.0,1.0,0.0
-Apto,"Vidrio, Metal, Tetra",3.0,Punto verde,39.0,190.0,97.0,1.0,0.0
-Apto,Plástico,3.0,Punto verde,39.0,190.0,97.0,1.0,0.0
-Apto,Papel,2.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-Apto,Plástico,2.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-Apto,"Vidrio, Metal, Tetra",1.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-Apto,Papel,2.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-Apto,Plástico,2.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-Apto,Papel,2.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-Apto,Plástico,2.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-Apto,Papel,2.0,Punto verde,46.0,182.0,195.0,2.0,12.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,46.0,182.0,195.0,2.0,12.0
-Apto,Plástico,2.0,Punto verde,46.0,182.0,195.0,2.0,12.0
-Apto,Papel,2.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-Apto,Plástico,2.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-Apto,Papel,2.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-Apto,Plástico,2.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-Apto,Papel,2.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-Apto,Plástico,2.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-Apto,Papel,2.0,Punto verde,24.0,49.0,92.0,0.0,17.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,24.0,49.0,92.0,0.0,17.0
-Apto,Plástico,2.0,Punto verde,24.0,49.0,92.0,0.0,17.0
-NoApto,Plástico,2.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-NoApto,Papel,2.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-NoApto,Plástico,2.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-NoApto,Papel,2.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-NoApto,Papel,2.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,Plástico,1.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,Plástico,2.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,Papel,1.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,Plástico,2.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-NoApto,Papel,2.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-NoApto,Papel,1.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-NoApto,Plástico,1.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-NoApto,Plástico,2.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,Papel,2.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,Papel,1.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,Plástico,1.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,Plástico,2.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,Papel,1.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,Plástico,2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,Papel,2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,Plástico,2.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-NoApto,Papel,2.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-Apto,Papel,2.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-Apto,Plástico,2.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-Apto,Papel,2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-Apto,Plástico,2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-Apto,Papel,2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-Apto,Plástico,2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-Apto,Papel,2.0,Punto verde,25.0,81.0,136.0,1.0,55.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,25.0,81.0,136.0,1.0,55.0
-Apto,Plástico,2.0,Punto verde,25.0,81.0,136.0,1.0,55.0
-NoApto,Plástico,2.0,Punto verde,25.0,81.0,136.0,1.0,37.0
-NoApto,Papel,2.0,Punto verde,25.0,81.0,136.0,1.0,37.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,25.0,81.0,136.0,1.0,37.0
-Apto,Papel,2.0,Punto verde,10.0,86.0,80.0,1.0,25.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,10.0,86.0,80.0,1.0,25.0
-Apto,Plástico,2.0,Punto verde,10.0,86.0,80.0,1.0,25.0
-NoApto,Plástico,2.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-NoApto,Papel,1.0,Punto verde,11.0,87.0,102.0,0.0,8.0
-NoApto,Plástico,2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-NoApto,Papel,1.0,Punto verde,14.0,96.0,119.0,0.0,16.0
-NoApto,Plástico,2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-NoApto,Papel,1.0,Punto verde,20.0,86.0,111.0,0.0,20.0
-NoApto,Plástico,2.0,Punto verde,25.0,81.0,136.0,1.0,37.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,25.0,81.0,136.0,1.0,37.0
-NoApto,Papel,1.0,Punto verde,25.0,81.0,136.0,1.0,37.0
-NoApto,Plástico,2.0,Punto verde,25.0,81.0,136.0,1.0,55.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,25.0,81.0,136.0,1.0,55.0
-NoApto,Papel,1.0,Punto verde,25.0,81.0,136.0,1.0,55.0
-NoApto,Plástico,2.0,Punto verde,10.0,86.0,80.0,1.0,25.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,10.0,86.0,80.0,1.0,25.0
-NoApto,Papel,1.0,Punto verde,10.0,86.0,80.0,1.0,25.0
-NoApto,Plástico,2.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-NoApto,Papel,1.0,Punto verde,17.0,101.0,103.0,1.0,7.0
-Apto,Papel,1.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-Apto,"Vidrio, Metal, Tetra",2.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-Apto,Plástico,2.0,Punto verde,38.0,161.0,145.0,1.0,17.0
-NoApto,Plástico,2.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-NoApto,Papel,1.0,Punto verde,27.0,123.0,192.0,0.0,5.0
-NoApto,Plástico,2.0,Punto verde,39.0,190.0,97.0,1.0,0.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,39.0,190.0,97.0,1.0,0.0
-NoApto,Papel,1.0,Punto verde,39.0,190.0,97.0,1.0,0.0
-NoApto,Plástico,2.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,Papel,1.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,Plástico,2.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,Papel,1.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,Plástico,2.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-NoApto,Papel,1.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-NoApto,Plástico,2.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,Papel,1.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,Plástico,2.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,Papel,1.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,Plástico,2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,Papel,1.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,Plástico,2.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,Papel,2.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,11.0,50.0,100.0,2.0,80.0
-NoApto,Plástico,2.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,Papel,2.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,13.0,32.0,116.0,0.0,153.0
-NoApto,Plástico,2.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-NoApto,Papel,1.0,Punto verde,9.0,30.0,67.0,1.0,298.0
-NoApto,Plástico,2.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-NoApto,Papel,2.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,5.0,56.0,61.0,1.0,135.0
-NoApto,Plástico,2.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,Papel,1.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,"Vidrio, Metal, Tetra",1.0,Punto verde,13.0,32.0,116.0,0.0,116.0
-NoApto,Plástico,2.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,Papel,2.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,7.0,20.0,65.0,0.0,42.0
-NoApto,Plástico,2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,Papel,2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,7.0,23.0,48.0,0.0,34.0
-NoApto,Plástico,2.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-NoApto,Papel,1.0,Punto verde,41.0,192.0,91.0,0.0,47.0
-NoApto,Plástico,2.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-NoApto,Papel,2.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-NoApto,"Vidrio, Metal, Tetra",2.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-Apto,"Vidrio, Metal, Tetra",1.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-Apto,Papel,2.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-Apto,Plástico,2.0,Punto verde,9.0,65.0,132.0,0.0,5.0
-NoApto,PET,2.0,Rulero,36.0,186.0,122.0,2.0,4.0
-NoApto,PET,1.0,Rulero,36.0,186.0,122.0,2.0,4.0
-NoApto,PET,1.0,Rulero,36.0,186.0,122.0,2.0,4.0
-NoApto,PET,1.0,Rulero,36.0,186.0,122.0,2.0,4.0
-Apto,PET,3.0,Rulero,36.0,186.0,122.0,2.0,4.0
-Apto,PET,2.0,Rulero,36.0,186.0,122.0,2.0,4.0
-Apto,PET,2.0,Rulero,36.0,186.0,122.0,2.0,4.0
-NoApto,PET,2.0,Rulero,27.0,106.0,122.0,1.0,11.0
-NoApto,PET,2.0,Rulero,27.0,106.0,122.0,1.0,11.0
-NoApto,PET,2.0,Rulero,27.0,106.0,122.0,1.0,11.0
-NoApto,PET,2.0,Rulero,27.0,106.0,122.0,1.0,11.0
-Apto,PET,2.0,Rulero,27.0,106.0,122.0,1.0,11.0
-Apto,PET,2.0,Rulero,27.0,106.0,122.0,1.0,11.0
-Apto,PET,2.0,Rulero,39.0,157.0,125.0,3.0,9.0
-NoApto,PET,2.0,Rulero,23.0,208.0,113.0,0.0,2.0
-NoApto,PET,2.0,Rulero,23.0,208.0,113.0,0.0,2.0
-NoApto,PET,2.0,Rulero,23.0,208.0,113.0,0.0,2.0
-NoApto,PET,2.0,Rulero,23.0,208.0,113.0,0.0,2.0
-Apto,PET,3.0,Rulero,23.0,208.0,113.0,0.0,2.0
-NoApto,PET,2.0,Rulero,27.0,106.0,122.0,1.0,11.0
-NoApto,PET,2.0,Rulero,27.0,106.0,122.0,1.0,11.0
-NoApto,PET,2.0,Rulero,27.0,106.0,122.0,1.0,11.0
-NoApto,PET,2.0,Rulero,27.0,106.0,122.0,1.0,11.0
-NoApto,PET,2.0,Rulero,27.0,106.0,122.0,1.0,11.0
-Apto,PET,2.0,Rulero,27.0,106.0,122.0,1.0,11.0
-NoApto,PET,2.0,Rulero,24.0,49.0,92.0,0.0,16.0
-NoApto,PET,2.0,Rulero,24.0,49.0,92.0,0.0,16.0
-NoApto,PET,2.0,Rulero,24.0,49.0,92.0,0.0,16.0
-NoApto,PET,2.0,Rulero,24.0,49.0,92.0,0.0,16.0
-NoApto,PET,2.0,Rulero,24.0,49.0,92.0,0.0,16.0
-Apto,PET,2.0,Rulero,24.0,49.0,92.0,0.0,16.0
-Apto,PET,2.0,Rulero,24.0,49.0,92.0,0.0,16.0
-NoApto,PET,2.0,Rulero,23.0,115.0,110.0,2.0,13.0
-NoApto,PET,2.0,Rulero,23.0,115.0,110.0,2.0,13.0
-NoApto,PET,2.0,Rulero,23.0,115.0,110.0,2.0,13.0
-NoApto,PET,2.0,Rulero,23.0,115.0,110.0,2.0,13.0
-NoApto,PET,2.0,Rulero,23.0,115.0,110.0,2.0,13.0
-NoApto,PET,2.0,Rulero,23.0,115.0,110.0,2.0,13.0
-Apto,PET,2.0,Rulero,23.0,115.0,110.0,2.0,13.0
-NoApto,PET,2.0,Rulero,9.0,65.0,132.0,0.0,4.0
-NoApto,PET,2.0,Rulero,9.0,65.0,132.0,0.0,4.0
-NoApto,PET,1.0,Rulero,9.0,65.0,132.0,0.0,4.0
-NoApto,PET,2.0,Rulero,9.0,65.0,132.0,0.0,6.0
-NoApto,PET,2.0,Rulero,9.0,65.0,132.0,0.0,6.0
-NoApto,PET,1.0,Rulero,9.0,65.0,132.0,0.0,6.0
-NoApto,PET,1.0,Rulero,9.0,65.0,132.0,0.0,6.0
-NoApto,PET,2.0,Rulero,9.0,65.0,132.0,0.0,6.0
-NoApto,PET,2.0,Rulero,9.0,65.0,132.0,0.0,6.0
-NoApto,PET,2.0,Rulero,9.0,65.0,132.0,0.0,6.0
-NoApto,PET,1.0,Rulero,9.0,65.0,132.0,0.0,6.0
-NoApto,PET,1.0,Rulero,9.0,65.0,132.0,0.0,6.0
-NoApto,PET,1.0,Rulero,9.0,65.0,132.0,0.0,6.0
-NoApto,PET,2.0,Rulero,18.0,87.0,97.0,0.0,39.0
-NoApto,PET,2.0,Rulero,18.0,87.0,97.0,0.0,39.0
-NoApto,PET,2.0,Rulero,18.0,87.0,97.0,0.0,39.0
-NoApto,PET,1.0,Rulero,18.0,87.0,97.0,0.0,39.0
-NoApto,PET,1.0,Rulero,18.0,87.0,97.0,0.0,39.0
-NoApto,PET,1.0,Rulero,18.0,87.0,97.0,0.0,39.0
-Apto,PET,2.0,Rulero,18.0,87.0,97.0,0.0,39.0
-Apto,PET,2.0,Rulero,18.0,87.0,97.0,0.0,39.0
-NoApto,PET,2.0,Rulero,14.0,132.0,86.0,1.0,55.0
-NoApto,PET,1.0,Rulero,14.0,132.0,86.0,1.0,55.0
-Apto,PET,2.0,Rulero,14.0,132.0,86.0,1.0,55.0
-NoApto,PET,2.0,Rulero,17.0,82.0,113.0,0.0,58.0
-NoApto,PET,2.0,Rulero,17.0,82.0,113.0,0.0,58.0
-NoApto,PET,2.0,Rulero,17.0,82.0,113.0,0.0,58.0
-NoApto,PET,2.0,Rulero,17.0,82.0,113.0,0.0,58.0
-NoApto,PET,1.0,Rulero,17.0,82.0,113.0,0.0,58.0
-NoApto,PET,1.0,Rulero,17.0,82.0,113.0,0.0,58.0
-NoApto,PET,1.0,Rulero,17.0,82.0,113.0,0.0,58.0
-Apto,PET,2.0,Rulero,17.0,82.0,113.0,0.0,58.0
-Apto,PET,2.0,Rulero,17.0,82.0,113.0,0.0,58.0
-NoApto,PET,2.0,Rulero,11.0,50.0,100.0,2.0,70.0
-NoApto,PET,2.0,Rulero,10.0,49.0,52.0,0.0,39.0
-NoApto,PET,2.0,Rulero,11.0,50.0,100.0,2.0,70.0
-NoApto,PET,2.0,Rulero,10.0,49.0,52.0,0.0,39.0
-NoApto,PET,2.0,Rulero,11.0,50.0,100.0,2.0,70.0
-NoApto,PET,2.0,Rulero,10.0,49.0,52.0,0.0,39.0
-NoApto,PET,2.0,Rulero,11.0,50.0,100.0,2.0,70.0
-NoApto,PET,2.0,Rulero,10.0,49.0,52.0,0.0,39.0
-NoApto,PET,2.0,Rulero,11.0,50.0,100.0,2.0,70.0
-NoApto,PET,2.0,Rulero,10.0,49.0,52.0,0.0,39.0
-NoApto,PET,2.0,Rulero,11.0,50.0,100.0,2.0,70.0
-NoApto,PET,2.0,Rulero,10.0,49.0,52.0,0.0,39.0
-NoApto,PET,2.0,Rulero,11.0,50.0,100.0,2.0,70.0
-NoApto,PET,2.0,Rulero,10.0,49.0,52.0,0.0,39.0
-NoApto,PET,1.0,Rulero,11.0,50.0,100.0,2.0,70.0
-NoApto,PET,1.0,Rulero,10.0,49.0,52.0,0.0,39.0
-NoApto,PET,1.0,Rulero,11.0,50.0,100.0,2.0,70.0
-NoApto,PET,1.0,Rulero,10.0,49.0,52.0,0.0,39.0
-NoApto,PET,1.0,Rulero,11.0,50.0,100.0,2.0,70.0
-NoApto,PET,1.0,Rulero,10.0,49.0,52.0,0.0,39.0
-NoApto,PET,1.0,Rulero,11.0,50.0,100.0,2.0,70.0
-NoApto,PET,1.0,Rulero,10.0,49.0,52.0,0.0,39.0
-NoApto,PET,1.0,Rulero,11.0,50.0,100.0,2.0,70.0
-NoApto,PET,1.0,Rulero,10.0,49.0,52.0,0.0,39.0
-NoApto,PET,1.0,Rulero,11.0,50.0,100.0,2.0,70.0
-NoApto,PET,1.0,Rulero,10.0,49.0,52.0,0.0,39.0
-NoApto,PET,1.0,Rulero,11.0,50.0,100.0,2.0,70.0
-NoApto,PET,1.0,Rulero,10.0,49.0,52.0,0.0,39.0
-NoApto,PET,1.0,Rulero,11.0,50.0,100.0,2.0,70.0
-NoApto,PET,1.0,Rulero,10.0,49.0,52.0,0.0,39.0
-NoApto,PET,1.0,Rulero,11.0,50.0,100.0,2.0,70.0
-NoApto,PET,1.0,Rulero,10.0,49.0,52.0,0.0,39.0
-Apto,PET,1.0,Rulero,11.0,50.0,100.0,2.0,70.0
-Apto,PET,1.0,Rulero,10.0,49.0,52.0,0.0,39.0
-Apto,PET,2.0,Rulero,11.0,50.0,100.0,2.0,70.0
-Apto,PET,2.0,Rulero,10.0,49.0,52.0,0.0,39.0
-NoApto,PET,2.0,Rulero,10.0,88.0,154.0,0.0,26.0
-NoApto,PET,2.0,Rulero,10.0,88.0,154.0,0.0,26.0
-NoApto,PET,2.0,Rulero,10.0,88.0,154.0,0.0,26.0
-NoApto,PET,2.0,Rulero,10.0,88.0,154.0,0.0,26.0
-NoApto,PET,2.0,Rulero,10.0,88.0,154.0,0.0,26.0
-NoApto,PET,1.0,Rulero,10.0,88.0,154.0,0.0,26.0
-Apto,PET,3.0,Rulero,10.0,88.0,154.0,0.0,26.0
-NoApto,PET,2.0,Rulero,6.0,47.0,68.0,0.0,27.0
-NoApto,PET,2.0,Rulero,0.0,0.0,1.0,0.0,0.0
-NoApto,PET,2.0,Rulero,6.0,47.0,68.0,0.0,27.0
-NoApto,PET,2.0,Rulero,0.0,0.0,1.0,0.0,0.0
-NoApto,PET,2.0,Rulero,6.0,47.0,68.0,0.0,27.0
-NoApto,PET,2.0,Rulero,0.0,0.0,1.0,0.0,0.0
-NoApto,PET,2.0,Rulero,6.0,47.0,68.0,0.0,27.0
-NoApto,PET,2.0,Rulero,0.0,0.0,1.0,0.0,0.0
-NoApto,PET,2.0,Rulero,6.0,47.0,68.0,0.0,27.0
-NoApto,PET,2.0,Rulero,0.0,0.0,1.0,0.0,0.0
-NoApto,PET,2.0,Rulero,6.0,47.0,68.0,0.0,27.0
-NoApto,PET,2.0,Rulero,0.0,0.0,1.0,0.0,0.0
-NoApto,PET,1.0,Rulero,6.0,47.0,68.0,0.0,27.0
-NoApto,PET,1.0,Rulero,0.0,0.0,1.0,0.0,0.0
-NoApto,PET,2.0,Rulero,12.0,31.0,42.0,0.0,17.0
-NoApto,PET,2.0,Rulero,12.0,31.0,42.0,0.0,17.0
-NoApto,PET,2.0,Rulero,12.0,31.0,42.0,0.0,17.0
-NoApto,PET,2.0,Rulero,12.0,31.0,42.0,0.0,17.0
-NoApto,PET,1.0,Rulero,12.0,31.0,42.0,0.0,17.0
-NoApto,PET,1.0,Rulero,12.0,31.0,42.0,0.0,17.0
-NoApto,PET,1.0,Rulero,12.0,31.0,42.0,0.0,17.0
-NoApto,PET,1.0,Rulero,12.0,31.0,42.0,0.0,17.0
-Apto,PET,2.0,Rulero,12.0,31.0,42.0,0.0,17.0
-NoApto,PET,2.0,Rulero,13.0,32.0,116.0,0.0,72.0
-NoApto,PET,2.0,Rulero,13.0,32.0,116.0,0.0,72.0
-NoApto,PET,2.0,Rulero,13.0,32.0,116.0,0.0,72.0
-NoApto,PET,1.0,Rulero,13.0,32.0,116.0,0.0,72.0
-NoApto,PET,1.0,Rulero,13.0,32.0,116.0,0.0,72.0
-NoApto,PET,1.0,Rulero,13.0,32.0,116.0,0.0,72.0
-NoApto,PET,1.0,Rulero,13.0,32.0,116.0,0.0,72.0
-NoApto,PET,1.0,Rulero,13.0,32.0,116.0,0.0,72.0
-NoApto,PET,1.0,Rulero,13.0,32.0,116.0,0.0,72.0
-NoApto,PET,1.0,Rulero,13.0,32.0,116.0,0.0,72.0
-NoApto,PET,2.0,Rulero,7.0,50.0,57.0,0.0,13.0
-NoApto,PET,2.0,Rulero,7.0,50.0,57.0,0.0,13.0
-NoApto,PET,2.0,Rulero,7.0,50.0,57.0,0.0,13.0
-NoApto,PET,1.0,Rulero,7.0,50.0,57.0,0.0,13.0
-NoApto,PET,1.0,Rulero,7.0,50.0,57.0,0.0,13.0
-NoApto,PET,1.0,Rulero,7.0,50.0,57.0,0.0,13.0
-Apto,PET,2.0,Rulero,7.0,50.0,57.0,0.0,13.0
-Apto,PET,2.0,Rulero,7.0,50.0,57.0,0.0,13.0
-NoApto,PET,2.0,Rulero,13.0,32.0,116.0,0.0,72.0
-NoApto,PET,2.0,Rulero,13.0,32.0,116.0,0.0,72.0
-NoApto,PET,2.0,Rulero,13.0,32.0,116.0,0.0,72.0
-NoApto,PET,2.0,Rulero,13.0,32.0,116.0,0.0,72.0
-NoApto,PET,2.0,Rulero,13.0,32.0,116.0,0.0,72.0
-NoApto,PET,1.0,Rulero,13.0,32.0,116.0,0.0,72.0
-Apto,PET,3.0,Rulero,13.0,32.0,116.0,0.0,72.0
-NoApto,PET,2.0,Rulero,7.0,59.0,99.0,0.0,20.0
-NoApto,PET,2.0,Rulero,7.0,59.0,99.0,0.0,20.0
-NoApto,PET,2.0,Rulero,7.0,59.0,99.0,0.0,20.0
-NoApto,PET,1.0,Rulero,7.0,59.0,99.0,0.0,20.0
-NoApto,PET,1.0,Rulero,7.0,59.0,99.0,0.0,20.0
-Apto,PET,2.0,Rulero,7.0,59.0,99.0,0.0,20.0
-NoApto,PET,2.0,Rulero,7.0,59.0,99.0,0.0,20.0
-NoApto,PET,2.0,Rulero,7.0,59.0,99.0,0.0,20.0
-NoApto,PET,2.0,Rulero,7.0,59.0,99.0,0.0,20.0
-NoApto,PET,2.0,Rulero,7.0,59.0,99.0,0.0,20.0
-NoApto,PET,1.0,Rulero,7.0,59.0,99.0,0.0,20.0
-NoApto,PET,1.0,Rulero,7.0,59.0,99.0,0.0,20.0
-Apto,PET,2.0,Rulero,7.0,59.0,99.0,0.0,20.0
-NoApto,PET,2.0,Rulero,31.0,92.0,109.0,1.0,18.0
-NoApto,PET,2.0,Rulero,31.0,92.0,109.0,1.0,18.0
-NoApto,PET,2.0,Rulero,31.0,92.0,109.0,1.0,18.0
-NoApto,PET,2.0,Rulero,31.0,92.0,109.0,1.0,18.0
-NoApto,PET,2.0,Rulero,31.0,92.0,109.0,1.0,18.0
-NoApto,PET,1.0,Rulero,31.0,92.0,109.0,1.0,18.0
-NoApto,PET,1.0,Rulero,31.0,92.0,109.0,1.0,18.0
-Apto,PET,3.0,Rulero,31.0,92.0,109.0,1.0,18.0
-Apto,PET,2.0,Rulero,31.0,92.0,109.0,1.0,18.0
-NoApto,PET,2.0,Rulero,17.0,106.0,53.0,0.0,21.0
-NoApto,PET,1.0,Rulero,17.0,106.0,53.0,0.0,21.0
-NoApto,PET,1.0,Rulero,17.0,106.0,53.0,0.0,21.0
-NoApto,PET,1.0,Rulero,17.0,106.0,53.0,0.0,21.0
-NoApto,PET,1.0,Rulero,17.0,106.0,53.0,0.0,21.0
-NoApto,PET,1.0,Rulero,17.0,106.0,53.0,0.0,21.0
-NoApto,PET,2.0,Rulero,17.0,106.0,53.0,0.0,75.0
-NoApto,PET,2.0,Rulero,17.0,106.0,53.0,0.0,75.0
-NoApto,PET,1.0,Rulero,17.0,106.0,53.0,0.0,75.0
-NoApto,PET,1.0,Rulero,17.0,106.0,53.0,0.0,75.0
-NoApto,PET,1.0,Rulero,17.0,106.0,53.0,0.0,75.0
-NoApto,PET,1.0,Rulero,17.0,106.0,53.0,0.0,75.0
-NoApto,PET,1.0,Rulero,17.0,106.0,53.0,0.0,75.0
-NoApto,PET,1.0,Rulero,17.0,106.0,53.0,0.0,75.0
-Apto,PET,2.0,Rulero,17.0,106.0,53.0,0.0,75.0
-Apto,PET,2.0,Rulero,17.0,106.0,53.0,0.0,75.0
-Apto,PET,2.0,Rulero,17.0,106.0,53.0,0.0,75.0
-NoApto,PET,2.0,Rulero,17.0,106.0,53.0,0.0,63.0
-NoApto,PET,2.0,Rulero,17.0,106.0,53.0,0.0,63.0
-NoApto,PET,1.0,Rulero,17.0,106.0,53.0,0.0,63.0
-NoApto,PET,1.0,Rulero,17.0,106.0,53.0,0.0,63.0
-NoApto,PET,1.0,Rulero,17.0,106.0,53.0,0.0,63.0
-NoApto,PET,1.0,Rulero,17.0,106.0,53.0,0.0,63.0
-NoApto,PET,1.0,Rulero,17.0,106.0,53.0,0.0,63.0
-NoApto,PET,1.0,Rulero,17.0,106.0,53.0,0.0,63.0
-NoApto,PET,1.0,Rulero,17.0,106.0,53.0,0.0,63.0
-NoApto,PET,2.0,Rulero,36.0,186.0,122.0,2.0,4.0
-NoApto,PET,2.0,Rulero,36.0,186.0,122.0,2.0,4.0
-NoApto,PET,2.0,Rulero,36.0,186.0,122.0,2.0,4.0
-NoApto,PET,1.0,Rulero,36.0,186.0,122.0,2.0,4.0
-NoApto,PET,1.0,Rulero,36.0,186.0,122.0,2.0,4.0
-NoApto,PET,1.0,Rulero,36.0,186.0,122.0,2.0,4.0
-Apto,PET,3.0,Rulero,36.0,186.0,122.0,2.0,4.0
-Apto,PET,2.0,Rulero,36.0,186.0,122.0,2.0,4.0
-Apto,PET,2.0,Rulero,36.0,186.0,122.0,2.0,4.0
-NoApto,PET,2.0,Rulero,2.0,54.0,84.0,0.0,27.0
-NoApto,PET,2.0,Rulero,2.0,54.0,84.0,0.0,27.0
-NoApto,PET,2.0,Rulero,2.0,54.0,84.0,0.0,27.0
-NoApto,PET,2.0,Rulero,2.0,54.0,84.0,0.0,27.0
-NoApto,PET,2.0,Rulero,2.0,54.0,84.0,0.0,27.0
-NoApto,PET,1.0,Rulero,2.0,54.0,84.0,0.0,27.0
-NoApto,PET,1.0,Rulero,2.0,54.0,84.0,0.0,27.0
-Apto,PET,2.0,Rulero,2.0,54.0,84.0,0.0,27.0
-NoApto,PET,1.0,Rulero,4.0,25.0,71.0,1.0,71.0
-NoApto,PET,1.0,Rulero,4.0,25.0,71.0,1.0,71.0
-NoApto,PET,1.0,Rulero,4.0,25.0,71.0,1.0,71.0
-NoApto,PET,1.0,Rulero,4.0,25.0,71.0,1.0,71.0
-NoApto,PET,1.0,Rulero,4.0,25.0,71.0,1.0,71.0
-NoApto,PET,2.0,Rulero,20.0,86.0,111.0,0.0,21.0
-NoApto,PET,2.0,Rulero,20.0,86.0,111.0,0.0,21.0
-NoApto,PET,2.0,Rulero,20.0,86.0,111.0,0.0,21.0
-NoApto,PET,2.0,Rulero,20.0,86.0,111.0,0.0,21.0
-NoApto,PET,1.0,Rulero,20.0,86.0,111.0,0.0,21.0
-NoApto,PET,1.0,Rulero,20.0,86.0,111.0,0.0,21.0
-NoApto,PET,1.0,Rulero,20.0,86.0,111.0,0.0,21.0
-Apto,PET,2.0,Rulero,20.0,86.0,111.0,0.0,21.0
-Apto,PET,2.0,Rulero,20.0,86.0,111.0,0.0,21.0
-NoApto,PET,2.0,Rulero,10.0,88.0,154.0,0.0,26.0
-NoApto,PET,1.0,Rulero,10.0,88.0,154.0,0.0,26.0
-NoApto,PET,1.0,Rulero,10.0,88.0,154.0,0.0,26.0
-NoApto,PET,1.0,Rulero,10.0,88.0,154.0,0.0,26.0
-NoApto,PET,1.0,Rulero,10.0,88.0,154.0,0.0,26.0
-NoApto,PET,1.0,Rulero,10.0,88.0,154.0,0.0,26.0
-NoApto,PET,2.0,Rulero,11.0,87.0,102.0,0.0,10.0
-NoApto,PET,1.0,Rulero,11.0,87.0,102.0,0.0,10.0
-NoApto,PET,1.0,Rulero,11.0,87.0,102.0,0.0,10.0
-NoApto,PET,1.0,Rulero,11.0,87.0,102.0,0.0,10.0
-NoApto,PET,1.0,Rulero,11.0,87.0,102.0,0.0,10.0
-NoApto,PET,1.0,Rulero,11.0,87.0,102.0,0.0,10.0
-NoApto,PET,1.0,Rulero,11.0,87.0,102.0,0.0,10.0
-NoApto,PET,1.0,Rulero,11.0,87.0,102.0,0.0,10.0
-NoApto,PET,1.0,Rulero,11.0,87.0,102.0,0.0,10.0
+﻿Tipo de punto,Target,TipoResiduo,CantidadNum,¿Se realiza recolección en el momento?,poblacion,hogares,desocupado,0-14,65_mas,inicial,primario,egb,secundario,polimodal,superior,universitario,post_universitario,lee_y _esc,NoLee_ni_e,hacinamiento,sin_agua,sin_cloaca,densidad_comercial,microzonificacion,macrozonificacion,x,y,index
+Punto Verde,Apto,Papel,2.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,Apto,Plástico,2.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,Apto,Papel,3.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",3.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,Apto,Plástico,3.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,Apto,Papel,3.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",3.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,Apto,Plástico,3.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,Apto,Papel,2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,17.0,Residencial urbano,Urbano,-68.83766999999999,-32.86913,6.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,17.0,Residencial urbano,Urbano,-68.83766999999999,-32.86913,6.0
+Punto Verde,Apto,Plástico,2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,17.0,Residencial urbano,Urbano,-68.83766999999999,-32.86913,6.0
+Punto Verde,NoApto,Plástico,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87689,11.0
+Punto Verde,NoApto,Papel,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87689,11.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87689,11.0
+Punto Verde,NoApto,Plástico,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87688,12.0
+Punto Verde,NoApto,Papel,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87688,12.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87688,12.0
+Punto Verde,NoApto,Papel,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,Plástico,1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,Papel,2.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,NoApto,Plástico,1.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,NoApto,Plástico,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,Papel,1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,Apto,Papel,2.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,Apto,Plástico,2.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,NoApto,Papel,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,Plástico,1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,Papel,1.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,Plástico,1.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,Papel,1.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,Plástico,1.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,Apto,Papel,2.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,Apto,Plástico,2.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,NoApto,Plástico,2.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,NoApto,Papel,2.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,Apto,Plástico,1.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,Apto,Papel,2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,Apto,Papel,2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,Apto,Plástico,2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,NoApto,Papel,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,55.0,Comercial,Altamente urbano,-68.85895,-32.89124,20.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,55.0,Comercial,Altamente urbano,-68.85895,-32.89124,20.0
+Punto Verde,NoApto,Plástico,1.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,55.0,Comercial,Altamente urbano,-68.85895,-32.89124,20.0
+Punto Verde,NoApto,Plástico,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,37.0,Comercial,Altamente urbano,-68.86036,-32.89107,19.0
+Punto Verde,NoApto,Papel,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,37.0,Comercial,Altamente urbano,-68.86036,-32.89107,19.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,37.0,Comercial,Altamente urbano,-68.86036,-32.89107,19.0
+Punto Verde,NoApto,Plástico,2.0,Sí,511.0,201.0,10.0,86.0,80.0,13.0,64.0,30.0,109.0,13.0,46.0,189.0,23.0,476.0,14.0,1.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.85548672,-32.88535933,16.0
+Punto Verde,NoApto,Papel,2.0,Sí,511.0,201.0,10.0,86.0,80.0,13.0,64.0,30.0,109.0,13.0,46.0,189.0,23.0,476.0,14.0,1.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.85548672,-32.88535933,16.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,511.0,201.0,10.0,86.0,80.0,13.0,64.0,30.0,109.0,13.0,46.0,189.0,23.0,476.0,14.0,1.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.85548672,-32.88535933,16.0
+Punto Verde,NoApto,Plástico,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87688,12.0
+Punto Verde,NoApto,Papel,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87688,12.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87688,12.0
+Punto Verde,NoApto,Papel,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,Plástico,1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,Papel,1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,Plástico,1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,Plástico,2.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,NoApto,Papel,2.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,NoApto,Papel,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,Plástico,1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,Plástico,2.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,Papel,2.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,Plástico,2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,Papel,2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,Plástico,2.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,NoApto,Papel,2.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,NoApto,Papel,2.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,NoApto,Plástico,1.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,NoApto,Plástico,2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,NoApto,Papel,2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,NoApto,Plástico,2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,NoApto,Papel,2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,NoApto,Plástico,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,55.0,Comercial,Altamente urbano,-68.85895,-32.89124,20.0
+Punto Verde,NoApto,Papel,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,55.0,Comercial,Altamente urbano,-68.85895,-32.89124,20.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,55.0,Comercial,Altamente urbano,-68.85895,-32.89124,20.0
+Punto Verde,NoApto,Plástico,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,37.0,Comercial,Altamente urbano,-68.86036,-32.89107,19.0
+Punto Verde,NoApto,Papel,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,37.0,Comercial,Altamente urbano,-68.86036,-32.89107,19.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,37.0,Comercial,Altamente urbano,-68.86036,-32.89107,19.0
+Punto Verde,NoApto,Plástico,2.0,Sí,511.0,201.0,10.0,86.0,80.0,13.0,64.0,30.0,109.0,13.0,46.0,189.0,23.0,476.0,14.0,1.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.85548672,-32.88535933,16.0
+Punto Verde,NoApto,Papel,2.0,Sí,511.0,201.0,10.0,86.0,80.0,13.0,64.0,30.0,109.0,13.0,46.0,189.0,23.0,476.0,14.0,1.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.85548672,-32.88535933,16.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,511.0,201.0,10.0,86.0,80.0,13.0,64.0,30.0,109.0,13.0,46.0,189.0,23.0,476.0,14.0,1.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.85548672,-32.88535933,16.0
+Punto Verde,Apto,Papel,2.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,Apto,Plástico,2.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,NoApto,Plástico,2.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,NoApto,Papel,2.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,NoApto,Plástico,2.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,NoApto,Papel,2.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,NoApto,Plástico,2.0,Sí,848.0,259.0,39.0,190.0,97.0,35.0,124.0,80.0,180.0,50.0,78.0,225.0,22.0,766.0,40.0,1.0,0.0,23.0,0.0,Residencial urbano,Urbano,-68.87616334,-32.86881512,0.0
+Punto Verde,NoApto,Papel,2.0,Sí,848.0,259.0,39.0,190.0,97.0,35.0,124.0,80.0,180.0,50.0,78.0,225.0,22.0,766.0,40.0,1.0,0.0,23.0,0.0,Residencial urbano,Urbano,-68.87616334,-32.86881512,0.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,848.0,259.0,39.0,190.0,97.0,35.0,124.0,80.0,180.0,50.0,78.0,225.0,22.0,766.0,40.0,1.0,0.0,23.0,0.0,Residencial urbano,Urbano,-68.87616334,-32.86881512,0.0
+Punto Verde,NoApto,Plástico,2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,17.0,Residencial urbano,Urbano,-68.83766999999999,-32.86913,6.0
+Punto Verde,NoApto,Papel,2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,17.0,Residencial urbano,Urbano,-68.83766999999999,-32.86913,6.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,17.0,Residencial urbano,Urbano,-68.83766999999999,-32.86913,6.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",1.0,Sí,778.0,239.0,31.0,170.0,82.0,26.0,163.0,55.0,257.0,51.0,57.0,109.0,2.0,705.0,37.0,4.0,0.0,2.0,16.0,Residencial urbano,Urbano,-68.82580223,-32.87105339,3.0
+Punto Verde,Apto,Plástico,3.0,Sí,778.0,239.0,31.0,170.0,82.0,26.0,163.0,55.0,257.0,51.0,57.0,109.0,2.0,705.0,37.0,4.0,0.0,2.0,16.0,Residencial urbano,Urbano,-68.82580223,-32.87105339,3.0
+Punto Verde,Apto,Papel,2.0,Sí,778.0,239.0,31.0,170.0,82.0,26.0,163.0,55.0,257.0,51.0,57.0,109.0,2.0,705.0,37.0,4.0,0.0,2.0,16.0,Residencial urbano,Urbano,-68.82580223,-32.87105339,3.0
+Punto Verde,NoApto,Plástico,2.0,Sí,1018.0,346.0,46.0,182.0,195.0,40.0,216.0,27.0,274.0,39.0,137.0,208.0,14.0,922.0,58.0,2.0,0.0,2.0,12.0,Residencial urbano,Urbano,-68.83332,-32.86292,2.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,1018.0,346.0,46.0,182.0,195.0,40.0,216.0,27.0,274.0,39.0,137.0,208.0,14.0,922.0,58.0,2.0,0.0,2.0,12.0,Residencial urbano,Urbano,-68.83332,-32.86292,2.0
+Punto Verde,NoApto,Papel,3.0,Sí,1018.0,346.0,46.0,182.0,195.0,40.0,216.0,27.0,274.0,39.0,137.0,208.0,14.0,922.0,58.0,2.0,0.0,2.0,12.0,Residencial urbano,Urbano,-68.83332,-32.86292,2.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",1.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,Apto,Papel,2.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,Apto,Plástico,2.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,NoApto,Plástico,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,Papel,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,Plástico,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,Papel,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,Plástico,2.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,NoApto,Papel,2.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,NoApto,Plástico,2.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,NoApto,Papel,2.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,NoApto,Papel,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,Plástico,1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,Plástico,2.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,Papel,1.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,Plástico,2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,Papel,1.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,Plástico,2.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,NoApto,Papel,1.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,NoApto,Papel,2.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,NoApto,Plástico,1.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,NoApto,Plástico,2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,NoApto,Papel,2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,NoApto,Plástico,2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,NoApto,Papel,2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,NoApto,Plástico,2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,17.0,Residencial urbano,Urbano,-68.83766999999999,-32.86913,6.0
+Punto Verde,NoApto,Papel,2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,17.0,Residencial urbano,Urbano,-68.83766999999999,-32.86913,6.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,17.0,Residencial urbano,Urbano,-68.83766999999999,-32.86913,6.0
+Punto Verde,NoApto,Plástico,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,Papel,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,Papel,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,Plástico,1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,Plástico,2.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,NoApto,Papel,2.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,NoApto,Plástico,2.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,NoApto,Papel,2.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,NoApto,Plástico,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,Papel,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,Plástico,2.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,Papel,2.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,Plástico,2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,Papel,2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,Papel,1.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,NoApto,Plástico,1.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,NoApto,Plástico,2.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,NoApto,Papel,1.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,NoApto,Plástico,2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,NoApto,Papel,2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,NoApto,Plástico,2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,NoApto,Papel,2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,NoApto,Plástico,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,55.0,Comercial,Altamente urbano,-68.85895,-32.89124,20.0
+Punto Verde,NoApto,Papel,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,55.0,Comercial,Altamente urbano,-68.85895,-32.89124,20.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,55.0,Comercial,Altamente urbano,-68.85895,-32.89124,20.0
+Punto Verde,NoApto,Plástico,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,37.0,Comercial,Altamente urbano,-68.86036,-32.89107,19.0
+Punto Verde,NoApto,Papel,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,37.0,Comercial,Altamente urbano,-68.86036,-32.89107,19.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,37.0,Comercial,Altamente urbano,-68.86036,-32.89107,19.0
+Punto Verde,Apto,Papel,2.0,Sí,511.0,201.0,10.0,86.0,80.0,13.0,64.0,30.0,109.0,13.0,46.0,189.0,23.0,476.0,14.0,1.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.85548672,-32.88535933,16.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,511.0,201.0,10.0,86.0,80.0,13.0,64.0,30.0,109.0,13.0,46.0,189.0,23.0,476.0,14.0,1.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.85548672,-32.88535933,16.0
+Punto Verde,Apto,Plástico,2.0,Sí,511.0,201.0,10.0,86.0,80.0,13.0,64.0,30.0,109.0,13.0,46.0,189.0,23.0,476.0,14.0,1.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.85548672,-32.88535933,16.0
+Punto Verde,NoApto,Plástico,2.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,NoApto,Papel,2.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,NoApto,Plástico,2.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,NoApto,Papel,2.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,NoApto,Plástico,2.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,NoApto,Papel,2.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,NoApto,Plástico,2.0,Sí,848.0,259.0,39.0,190.0,97.0,35.0,124.0,80.0,180.0,50.0,78.0,225.0,22.0,766.0,40.0,1.0,0.0,23.0,0.0,Residencial urbano,Urbano,-68.87616334,-32.86881512,0.0
+Punto Verde,NoApto,Papel,2.0,Sí,848.0,259.0,39.0,190.0,97.0,35.0,124.0,80.0,180.0,50.0,78.0,225.0,22.0,766.0,40.0,1.0,0.0,23.0,0.0,Residencial urbano,Urbano,-68.87616334,-32.86881512,0.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,848.0,259.0,39.0,190.0,97.0,35.0,124.0,80.0,180.0,50.0,78.0,225.0,22.0,766.0,40.0,1.0,0.0,23.0,0.0,Residencial urbano,Urbano,-68.87616334,-32.86881512,0.0
+Punto Verde,Apto,Papel,3.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,Apto,Plástico,3.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,Apto,Papel,2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,Apto,Plástico,2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,Apto,Plástico,3.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,Apto,Papel,2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,NoApto,Plástico,2.0,Sí,700.0,282.0,17.0,80.0,121.0,19.0,52.0,19.0,97.0,21.0,56.0,382.0,26.0,658.0,21.0,0.0,0.0,0.0,16.0,Residencial urbano,Urbano,-68.85313000000001,-32.89731,27.0
+Punto Verde,NoApto,Papel,2.0,Sí,700.0,282.0,17.0,80.0,121.0,19.0,52.0,19.0,97.0,21.0,56.0,382.0,26.0,658.0,21.0,0.0,0.0,0.0,16.0,Residencial urbano,Urbano,-68.85313000000001,-32.89731,27.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,700.0,282.0,17.0,80.0,121.0,19.0,52.0,19.0,97.0,21.0,56.0,382.0,26.0,658.0,21.0,0.0,0.0,0.0,16.0,Residencial urbano,Urbano,-68.85313000000001,-32.89731,27.0
+Punto Verde,Apto,Papel,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,55.0,Comercial,Altamente urbano,-68.85895,-32.89124,20.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,55.0,Comercial,Altamente urbano,-68.85895,-32.89124,20.0
+Punto Verde,Apto,Plástico,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,55.0,Comercial,Altamente urbano,-68.85895,-32.89124,20.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",1.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,37.0,Comercial,Altamente urbano,-68.86036,-32.89107,19.0
+Punto Verde,Apto,Papel,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,37.0,Comercial,Altamente urbano,-68.86036,-32.89107,19.0
+Punto Verde,Apto,Plástico,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,37.0,Comercial,Altamente urbano,-68.86036,-32.89107,19.0
+Punto Verde,Apto,Papel,3.0,Sí,511.0,201.0,10.0,86.0,80.0,13.0,64.0,30.0,109.0,13.0,46.0,189.0,23.0,476.0,14.0,1.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.85548672,-32.88535933,16.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",3.0,Sí,511.0,201.0,10.0,86.0,80.0,13.0,64.0,30.0,109.0,13.0,46.0,189.0,23.0,476.0,14.0,1.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.85548672,-32.88535933,16.0
+Punto Verde,Apto,Plástico,3.0,Sí,511.0,201.0,10.0,86.0,80.0,13.0,64.0,30.0,109.0,13.0,46.0,189.0,23.0,476.0,14.0,1.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.85548672,-32.88535933,16.0
+Punto Verde,Apto,Papel,3.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",3.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,Apto,Plástico,3.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,Apto,Papel,3.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,Apto,Plástico,3.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,Apto,Papel,2.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,Apto,Plástico,2.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,Apto,Papel,3.0,Sí,848.0,259.0,39.0,190.0,97.0,35.0,124.0,80.0,180.0,50.0,78.0,225.0,22.0,766.0,40.0,1.0,0.0,23.0,0.0,Residencial urbano,Urbano,-68.87616334,-32.86881512,0.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",3.0,Sí,848.0,259.0,39.0,190.0,97.0,35.0,124.0,80.0,180.0,50.0,78.0,225.0,22.0,766.0,40.0,1.0,0.0,23.0,0.0,Residencial urbano,Urbano,-68.87616334,-32.86881512,0.0
+Punto Verde,Apto,Plástico,3.0,Sí,848.0,259.0,39.0,190.0,97.0,35.0,124.0,80.0,180.0,50.0,78.0,225.0,22.0,766.0,40.0,1.0,0.0,23.0,0.0,Residencial urbano,Urbano,-68.87616334,-32.86881512,0.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",1.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,17.0,Residencial urbano,Urbano,-68.83766999999999,-32.86913,6.0
+Punto Verde,Apto,Plástico,3.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,17.0,Residencial urbano,Urbano,-68.83766999999999,-32.86913,6.0
+Punto Verde,Apto,Papel,2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,17.0,Residencial urbano,Urbano,-68.83766999999999,-32.86913,6.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,Apto,Plástico,3.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,Apto,Papel,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,Apto,Papel,2.0,Sí,704.0,212.0,25.0,91.0,142.0,10.0,131.0,11.0,218.0,10.0,58.0,205.0,27.0,660.0,24.0,0.0,0.0,0.0,75.0,Comercial,Altamente urbano,-68.83864,-32.88223,18.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,704.0,212.0,25.0,91.0,142.0,10.0,131.0,11.0,218.0,10.0,58.0,205.0,27.0,660.0,24.0,0.0,0.0,0.0,75.0,Comercial,Altamente urbano,-68.83864,-32.88223,18.0
+Punto Verde,Apto,Plástico,2.0,Sí,704.0,212.0,25.0,91.0,142.0,10.0,131.0,11.0,218.0,10.0,58.0,205.0,27.0,660.0,24.0,0.0,0.0,0.0,75.0,Comercial,Altamente urbano,-68.83864,-32.88223,18.0
+Punto Verde,Apto,Papel,2.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,Apto,Plástico,2.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",1.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,Apto,Papel,2.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,Apto,Plástico,2.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,Apto,Papel,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,Apto,Plástico,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",1.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,Apto,Papel,2.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,Apto,Plástico,2.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,Apto,Papel,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,Apto,Plástico,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,Apto,Papel,2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,Apto,Plástico,2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,Apto,Papel,2.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,Apto,Plástico,2.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,Apto,Plástico,3.0,Sí,1018.0,346.0,46.0,182.0,195.0,40.0,216.0,27.0,274.0,39.0,137.0,208.0,14.0,922.0,58.0,2.0,0.0,2.0,12.0,Residencial urbano,Urbano,-68.83332,-32.86292,2.0
+Punto Verde,Apto,Papel,2.0,Sí,1018.0,346.0,46.0,182.0,195.0,40.0,216.0,27.0,274.0,39.0,137.0,208.0,14.0,922.0,58.0,2.0,0.0,2.0,12.0,Residencial urbano,Urbano,-68.83332,-32.86292,2.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,1018.0,346.0,46.0,182.0,195.0,40.0,216.0,27.0,274.0,39.0,137.0,208.0,14.0,922.0,58.0,2.0,0.0,2.0,12.0,Residencial urbano,Urbano,-68.83332,-32.86292,2.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",1.0,Sí,963.0,321.0,19.0,204.0,155.0,26.0,204.0,44.0,278.0,28.0,95.0,207.0,9.0,868.0,41.0,2.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.82783,-32.87426,7.0
+Punto Verde,Apto,Papel,2.0,Sí,963.0,321.0,19.0,204.0,155.0,26.0,204.0,44.0,278.0,28.0,95.0,207.0,9.0,868.0,41.0,2.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.82783,-32.87426,7.0
+Punto Verde,Apto,Plástico,2.0,Sí,963.0,321.0,19.0,204.0,155.0,26.0,204.0,44.0,278.0,28.0,95.0,207.0,9.0,868.0,41.0,2.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.82783,-32.87426,7.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",1.0,Sí,664.0,268.0,21.0,104.0,120.0,16.0,103.0,12.0,154.0,30.0,65.0,233.0,8.0,610.0,18.0,2.0,2.0,0.0,2.0,Comercial,Altamente urbano,-68.83989,-32.877590000000005,13.0
+Punto Verde,Apto,Papel,2.0,Sí,664.0,268.0,21.0,104.0,120.0,16.0,103.0,12.0,154.0,30.0,65.0,233.0,8.0,610.0,18.0,2.0,2.0,0.0,2.0,Comercial,Altamente urbano,-68.83989,-32.877590000000005,13.0
+Punto Verde,Apto,Plástico,2.0,Sí,664.0,268.0,21.0,104.0,120.0,16.0,103.0,12.0,154.0,30.0,65.0,233.0,8.0,610.0,18.0,2.0,2.0,0.0,2.0,Comercial,Altamente urbano,-68.83989,-32.877590000000005,13.0
+Punto Verde,Apto,Papel,3.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,17.0,Residencial urbano,Urbano,-68.83766999999999,-32.86913,6.0
+Punto Verde,Apto,Plástico,3.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,17.0,Residencial urbano,Urbano,-68.83766999999999,-32.86913,6.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,17.0,Residencial urbano,Urbano,-68.83766999999999,-32.86913,6.0
+Punto Verde,Apto,Plástico,1.0,Sí,1018.0,346.0,46.0,182.0,195.0,40.0,216.0,27.0,274.0,39.0,137.0,208.0,14.0,922.0,58.0,2.0,0.0,2.0,12.0,Residencial urbano,Urbano,-68.83332,-32.86292,2.0
+Punto Verde,Apto,Papel,2.0,Sí,1018.0,346.0,46.0,182.0,195.0,40.0,216.0,27.0,274.0,39.0,137.0,208.0,14.0,922.0,58.0,2.0,0.0,2.0,12.0,Residencial urbano,Urbano,-68.83332,-32.86292,2.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",1.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87689,11.0
+Punto Verde,Apto,Papel,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87689,11.0
+Punto Verde,Apto,Plástico,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87689,11.0
+Punto Verde,NoApto,Plástico,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,Papel,1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,Plástico,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,Papel,1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,Plástico,2.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,NoApto,Papel,1.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,NoApto,Plástico,2.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,NoApto,Papel,1.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,NoApto,Plástico,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,Papel,1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,No,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,Plástico,2.0,No,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,Papel,1.0,No,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,Plástico,2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,Papel,1.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,Plástico,2.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,NoApto,Papel,1.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,NoApto,Plástico,2.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,NoApto,Papel,1.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,NoApto,Plástico,2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,NoApto,Papel,2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,NoApto,Papel,2.0,No,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,No,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,NoApto,Plástico,2.0,No,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,NoApto,Plástico,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,55.0,Comercial,Altamente urbano,-68.85895,-32.89124,20.0
+Punto Verde,NoApto,Papel,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,55.0,Comercial,Altamente urbano,-68.85895,-32.89124,20.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,55.0,Comercial,Altamente urbano,-68.85895,-32.89124,20.0
+Punto Verde,NoApto,Plástico,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,37.0,Comercial,Altamente urbano,-68.86036,-32.89107,19.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,37.0,Comercial,Altamente urbano,-68.86036,-32.89107,19.0
+Punto Verde,NoApto,Papel,1.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,37.0,Comercial,Altamente urbano,-68.86036,-32.89107,19.0
+Punto Verde,Apto,Papel,3.0,Sí,511.0,201.0,10.0,86.0,80.0,13.0,64.0,30.0,109.0,13.0,46.0,189.0,23.0,476.0,14.0,1.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.85548672,-32.88535933,16.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",3.0,Sí,511.0,201.0,10.0,86.0,80.0,13.0,64.0,30.0,109.0,13.0,46.0,189.0,23.0,476.0,14.0,1.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.85548672,-32.88535933,16.0
+Punto Verde,Apto,Plástico,3.0,Sí,511.0,201.0,10.0,86.0,80.0,13.0,64.0,30.0,109.0,13.0,46.0,189.0,23.0,476.0,14.0,1.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.85548672,-32.88535933,16.0
+Punto Verde,Apto,Papel,3.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",3.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,Apto,Plástico,3.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,Apto,Papel,3.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",3.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,Apto,Plástico,3.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,NoApto,Plástico,2.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,NoApto,Papel,2.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,NoApto,Plástico,2.0,Sí,848.0,259.0,39.0,190.0,97.0,35.0,124.0,80.0,180.0,50.0,78.0,225.0,22.0,766.0,40.0,1.0,0.0,23.0,0.0,Residencial urbano,Urbano,-68.87616334,-32.86881512,0.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,848.0,259.0,39.0,190.0,97.0,35.0,124.0,80.0,180.0,50.0,78.0,225.0,22.0,766.0,40.0,1.0,0.0,23.0,0.0,Residencial urbano,Urbano,-68.87616334,-32.86881512,0.0
+Punto Verde,NoApto,Papel,1.0,Sí,848.0,259.0,39.0,190.0,97.0,35.0,124.0,80.0,180.0,50.0,78.0,225.0,22.0,766.0,40.0,1.0,0.0,23.0,0.0,Residencial urbano,Urbano,-68.87616334,-32.86881512,0.0
+Punto Verde,NoApto,Plástico,2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,17.0,Residencial urbano,Urbano,-68.83766999999999,-32.86913,6.0
+Punto Verde,NoApto,Papel,2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,17.0,Residencial urbano,Urbano,-68.83766999999999,-32.86913,6.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,17.0,Residencial urbano,Urbano,-68.83766999999999,-32.86913,6.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,Apto,Papel,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,Apto,Plástico,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,Apto,Papel,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,Apto,Plástico,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,Apto,Papel,2.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,Apto,Plástico,2.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",1.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,Apto,Papel,2.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,Apto,Plástico,2.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,Apto,Papel,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,Apto,Plástico,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,Apto,Papel,2.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,Apto,Plástico,2.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,Apto,Papel,2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,Apto,Plástico,2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,Apto,Papel,2.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,Apto,Plástico,2.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,Apto,Papel,2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,Apto,Plástico,2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",1.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,Apto,Papel,2.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,Apto,Plástico,2.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,Apto,Papel,2.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,Apto,Plástico,2.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,Apto,Plástico,3.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,Apto,Papel,2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,Apto,Papel,2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,Apto,Plástico,2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,Apto,Papel,3.0,Sí,848.0,259.0,39.0,190.0,97.0,35.0,124.0,80.0,180.0,50.0,78.0,225.0,22.0,766.0,40.0,1.0,0.0,23.0,0.0,Residencial urbano,Urbano,-68.87616334,-32.86881512,0.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",3.0,Sí,848.0,259.0,39.0,190.0,97.0,35.0,124.0,80.0,180.0,50.0,78.0,225.0,22.0,766.0,40.0,1.0,0.0,23.0,0.0,Residencial urbano,Urbano,-68.87616334,-32.86881512,0.0
+Punto Verde,Apto,Plástico,3.0,Sí,848.0,259.0,39.0,190.0,97.0,35.0,124.0,80.0,180.0,50.0,78.0,225.0,22.0,766.0,40.0,1.0,0.0,23.0,0.0,Residencial urbano,Urbano,-68.87616334,-32.86881512,0.0
+Punto Verde,Apto,Papel,2.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,Apto,Plástico,2.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",1.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,Apto,Papel,2.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,Apto,Plástico,2.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,Apto,Papel,2.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,Apto,Plástico,2.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,Apto,Papel,2.0,Sí,1018.0,346.0,46.0,182.0,195.0,40.0,216.0,27.0,274.0,39.0,137.0,208.0,14.0,922.0,58.0,2.0,0.0,2.0,12.0,Residencial urbano,Urbano,-68.83332,-32.86292,2.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,1018.0,346.0,46.0,182.0,195.0,40.0,216.0,27.0,274.0,39.0,137.0,208.0,14.0,922.0,58.0,2.0,0.0,2.0,12.0,Residencial urbano,Urbano,-68.83332,-32.86292,2.0
+Punto Verde,Apto,Plástico,2.0,Sí,1018.0,346.0,46.0,182.0,195.0,40.0,216.0,27.0,274.0,39.0,137.0,208.0,14.0,922.0,58.0,2.0,0.0,2.0,12.0,Residencial urbano,Urbano,-68.83332,-32.86292,2.0
+Punto Verde,Apto,Papel,2.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,Apto,Plástico,2.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,Apto,Papel,2.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,Apto,Plástico,2.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,Apto,Papel,2.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,Apto,Plástico,2.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,Apto,Papel,2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,17.0,Residencial urbano,Urbano,-68.83766999999999,-32.86913,6.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,17.0,Residencial urbano,Urbano,-68.83766999999999,-32.86913,6.0
+Punto Verde,Apto,Plástico,2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,17.0,Residencial urbano,Urbano,-68.83766999999999,-32.86913,6.0
+Punto Verde,NoApto,Plástico,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87689,11.0
+Punto Verde,NoApto,Papel,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87689,11.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87689,11.0
+Punto Verde,NoApto,Plástico,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87688,12.0
+Punto Verde,NoApto,Papel,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87688,12.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87688,12.0
+Punto Verde,NoApto,Papel,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,Plástico,1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,Plástico,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,Papel,1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,Plástico,2.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,NoApto,Papel,2.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,NoApto,Papel,1.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,NoApto,Plástico,1.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,NoApto,Plástico,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,Papel,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,Papel,1.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,Plástico,1.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,Plástico,2.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,Papel,1.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,Plástico,2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,Papel,2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,Plástico,2.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,NoApto,Papel,2.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,Apto,Papel,2.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,Apto,Plástico,2.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,Apto,Papel,2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,Apto,Plástico,2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,Apto,Papel,2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,Apto,Plástico,2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,Apto,Papel,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,55.0,Comercial,Altamente urbano,-68.85895,-32.89124,20.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,55.0,Comercial,Altamente urbano,-68.85895,-32.89124,20.0
+Punto Verde,Apto,Plástico,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,55.0,Comercial,Altamente urbano,-68.85895,-32.89124,20.0
+Punto Verde,NoApto,Plástico,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,37.0,Comercial,Altamente urbano,-68.86036,-32.89107,19.0
+Punto Verde,NoApto,Papel,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,37.0,Comercial,Altamente urbano,-68.86036,-32.89107,19.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,37.0,Comercial,Altamente urbano,-68.86036,-32.89107,19.0
+Punto Verde,Apto,Papel,2.0,Sí,511.0,201.0,10.0,86.0,80.0,13.0,64.0,30.0,109.0,13.0,46.0,189.0,23.0,476.0,14.0,1.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.85548672,-32.88535933,16.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,511.0,201.0,10.0,86.0,80.0,13.0,64.0,30.0,109.0,13.0,46.0,189.0,23.0,476.0,14.0,1.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.85548672,-32.88535933,16.0
+Punto Verde,Apto,Plástico,2.0,Sí,511.0,201.0,10.0,86.0,80.0,13.0,64.0,30.0,109.0,13.0,46.0,189.0,23.0,476.0,14.0,1.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.85548672,-32.88535933,16.0
+Punto Verde,NoApto,Plástico,2.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,NoApto,Papel,1.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,8.0,Residencial urbano,Urbano,-68.8489,-32.901309999999995,30.0
+Punto Verde,NoApto,Plástico,2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,NoApto,Papel,1.0,Sí,631.0,264.0,14.0,96.0,119.0,13.0,69.0,25.0,115.0,27.0,54.0,278.0,22.0,596.0,14.0,0.0,0.0,2.0,16.0,Comercial,Altamente urbano,-68.85285,-32.901140000000005,31.0
+Punto Verde,NoApto,Plástico,2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,NoApto,Papel,1.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,20.0,Residencial urbano,Urbano,-68.85418,-32.90226,32.0
+Punto Verde,NoApto,Plástico,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,37.0,Comercial,Altamente urbano,-68.86036,-32.89107,19.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,37.0,Comercial,Altamente urbano,-68.86036,-32.89107,19.0
+Punto Verde,NoApto,Papel,1.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,37.0,Comercial,Altamente urbano,-68.86036,-32.89107,19.0
+Punto Verde,NoApto,Plástico,2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,55.0,Comercial,Altamente urbano,-68.85895,-32.89124,20.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,55.0,Comercial,Altamente urbano,-68.85895,-32.89124,20.0
+Punto Verde,NoApto,Papel,1.0,Sí,767.0,284.0,25.0,81.0,136.0,16.0,42.0,30.0,124.0,35.0,96.0,379.0,24.0,732.0,18.0,1.0,0.0,0.0,55.0,Comercial,Altamente urbano,-68.85895,-32.89124,20.0
+Punto Verde,NoApto,Plástico,2.0,Sí,511.0,201.0,10.0,86.0,80.0,13.0,64.0,30.0,109.0,13.0,46.0,189.0,23.0,476.0,14.0,1.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.85548672,-32.88535933,16.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,511.0,201.0,10.0,86.0,80.0,13.0,64.0,30.0,109.0,13.0,46.0,189.0,23.0,476.0,14.0,1.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.85548672,-32.88535933,16.0
+Punto Verde,NoApto,Papel,1.0,Sí,511.0,201.0,10.0,86.0,80.0,13.0,64.0,30.0,109.0,13.0,46.0,189.0,23.0,476.0,14.0,1.0,0.0,0.0,25.0,Residencial urbano,Urbano,-68.85548672,-32.88535933,16.0
+Punto Verde,NoApto,Plástico,2.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,NoApto,Papel,1.0,Sí,620.0,215.0,17.0,101.0,103.0,16.0,79.0,42.0,156.0,29.0,62.0,189.0,15.0,577.0,22.0,1.0,0.0,0.0,7.0,Residencial urbano,Urbano,-68.85207,-32.873470000000005,10.0
+Punto Verde,Apto,Papel,1.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",2.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,Apto,Plástico,2.0,Sí,985.0,375.0,38.0,161.0,145.0,28.0,166.0,47.0,198.0,47.0,120.0,312.0,15.0,915.0,35.0,1.0,0.0,3.0,17.0,Residencial urbano,Urbano,-68.84756,-32.87072,5.0
+Punto Verde,NoApto,Plástico,2.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,NoApto,Papel,1.0,Sí,878.0,309.0,27.0,123.0,192.0,20.0,115.0,38.0,181.0,41.0,91.0,327.0,36.0,831.0,25.0,0.0,0.0,2.0,5.0,Residencial urbano,Urbano,-68.85376,-32.86608,1.0
+Punto Verde,NoApto,Plástico,2.0,Sí,848.0,259.0,39.0,190.0,97.0,35.0,124.0,80.0,180.0,50.0,78.0,225.0,22.0,766.0,40.0,1.0,0.0,23.0,0.0,Residencial urbano,Urbano,-68.87616334,-32.86881512,0.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,848.0,259.0,39.0,190.0,97.0,35.0,124.0,80.0,180.0,50.0,78.0,225.0,22.0,766.0,40.0,1.0,0.0,23.0,0.0,Residencial urbano,Urbano,-68.87616334,-32.86881512,0.0
+Punto Verde,NoApto,Papel,1.0,Sí,848.0,259.0,39.0,190.0,97.0,35.0,124.0,80.0,180.0,50.0,78.0,225.0,22.0,766.0,40.0,1.0,0.0,23.0,0.0,Residencial urbano,Urbano,-68.87616334,-32.86881512,0.0
+Punto Verde,NoApto,Plástico,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,Papel,1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,Plástico,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,Papel,1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,Plástico,2.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,NoApto,Papel,1.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,NoApto,Plástico,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,Papel,1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,Plástico,2.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,Papel,1.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,Plástico,2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,Papel,1.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,Plástico,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,Papel,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,80.0,Central,Altamente urbano,-68.84285,-32.883359999999996,17.0
+Punto Verde,NoApto,Plástico,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,Papel,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,153.0,Central,Altamente urbano,-68.84159087,-32.88809288,23.0
+Punto Verde,NoApto,Plástico,2.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,NoApto,Papel,1.0,Sí,395.0,131.0,9.0,30.0,67.0,4.0,50.0,9.0,91.0,21.0,40.0,159.0,9.0,376.0,9.0,1.0,0.0,0.0,298.0,Central,Altamente urbano,-68.83908338,-32.88836007,25.0
+Punto Verde,NoApto,Plástico,2.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,NoApto,Papel,2.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,466.0,113.0,5.0,56.0,61.0,7.0,67.0,39.0,108.0,20.0,46.0,155.0,13.0,442.0,15.0,1.0,0.0,0.0,135.0,Central,Altamente urbano,-68.84199,-32.886759999999995,24.0
+Punto Verde,NoApto,Plástico,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,Papel,1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,116.0,Central,Altamente urbano,-68.84323,-32.88985,26.0
+Punto Verde,NoApto,Plástico,2.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,Papel,2.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,315.0,165.0,7.0,20.0,65.0,0.0,29.0,3.0,75.0,5.0,35.0,150.0,12.0,310.0,2.0,0.0,3.0,0.0,42.0,Central,Altamente urbano,-68.84705,-32.88941,22.0
+Punto Verde,NoApto,Plástico,2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,Papel,2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,309.0,142.0,7.0,23.0,48.0,4.0,21.0,4.0,58.0,8.0,36.0,157.0,11.0,297.0,4.0,0.0,3.0,0.0,34.0,Comercial,Altamente urbano,-68.84135,-32.898270000000004,28.0
+Punto Verde,NoApto,Plástico,2.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,NoApto,Papel,1.0,Sí,1020.0,358.0,41.0,192.0,91.0,30.0,96.0,72.0,213.0,49.0,140.0,342.0,16.0,941.0,33.0,0.0,0.0,1.0,47.0,Comercial,Altamente urbano,-68.83903000000001,-32.89875,29.0
+Punto Verde,NoApto,Plástico,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87688,12.0
+Punto Verde,NoApto,Papel,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87688,12.0
+Punto Verde,NoApto,"Vidrio, Metal, Tetra",2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87688,12.0
+Punto Verde,Apto,"Vidrio, Metal, Tetra",1.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87689,11.0
+Punto Verde,Apto,Papel,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87689,11.0
+Punto Verde,Apto,Plástico,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,5.0,Comercial,Altamente urbano,-68.84286,-32.87689,11.0
+Rulero,NoApto,PET,2.0,Sí,845.0,253.0,36.0,186.0,122.0,27.0,190.0,56.0,279.0,42.0,57.0,118.0,8.0,753.0,42.0,2.0,0.0,3.0,4.0,Residencial urbano,Urbano,-68.83421,-32.8623,34.0
+Rulero,NoApto,PET,1.0,Sí,845.0,253.0,36.0,186.0,122.0,27.0,190.0,56.0,279.0,42.0,57.0,118.0,8.0,753.0,42.0,2.0,0.0,3.0,4.0,Residencial urbano,Urbano,-68.83421,-32.8623,34.0
+Rulero,NoApto,PET,1.0,Sí,845.0,253.0,36.0,186.0,122.0,27.0,190.0,56.0,279.0,42.0,57.0,118.0,8.0,753.0,42.0,2.0,0.0,3.0,4.0,Residencial urbano,Urbano,-68.83421,-32.8623,34.0
+Rulero,NoApto,PET,1.0,Sí,845.0,253.0,36.0,186.0,122.0,27.0,190.0,56.0,279.0,42.0,57.0,118.0,8.0,753.0,42.0,2.0,0.0,3.0,4.0,Residencial urbano,Urbano,-68.83421,-32.8623,34.0
+Rulero,Apto,PET,3.0,Sí,845.0,253.0,36.0,186.0,122.0,27.0,190.0,56.0,279.0,42.0,57.0,118.0,8.0,753.0,42.0,2.0,0.0,3.0,4.0,Residencial urbano,Urbano,-68.83421,-32.8623,34.0
+Rulero,Apto,PET,2.0,Sí,845.0,253.0,36.0,186.0,122.0,27.0,190.0,56.0,279.0,42.0,57.0,118.0,8.0,753.0,42.0,2.0,0.0,3.0,4.0,Residencial urbano,Urbano,-68.83421,-32.8623,34.0
+Rulero,Apto,PET,2.0,Sí,845.0,253.0,36.0,186.0,122.0,27.0,190.0,56.0,279.0,42.0,57.0,118.0,8.0,753.0,42.0,2.0,0.0,3.0,4.0,Residencial urbano,Urbano,-68.83421,-32.8623,34.0
+Rulero,NoApto,PET,2.0,Sí,784.0,305.0,27.0,106.0,122.0,18.0,116.0,26.0,194.0,29.0,109.0,236.0,18.0,735.0,23.0,1.0,5.0,0.0,11.0,Residencial urbano,Urbano,-68.84179,-32.86588,36.0
+Rulero,NoApto,PET,2.0,Sí,784.0,305.0,27.0,106.0,122.0,18.0,116.0,26.0,194.0,29.0,109.0,236.0,18.0,735.0,23.0,1.0,5.0,0.0,11.0,Residencial urbano,Urbano,-68.84179,-32.86588,36.0
+Rulero,NoApto,PET,2.0,Sí,784.0,305.0,27.0,106.0,122.0,18.0,116.0,26.0,194.0,29.0,109.0,236.0,18.0,735.0,23.0,1.0,5.0,0.0,11.0,Residencial urbano,Urbano,-68.84179,-32.86588,36.0
+Rulero,NoApto,PET,2.0,No,784.0,305.0,27.0,106.0,122.0,18.0,116.0,26.0,194.0,29.0,109.0,236.0,18.0,735.0,23.0,1.0,5.0,0.0,11.0,Residencial urbano,Urbano,-68.84179,-32.86588,36.0
+Rulero,Apto,PET,2.0,Sí,784.0,305.0,27.0,106.0,122.0,18.0,116.0,26.0,194.0,29.0,109.0,236.0,18.0,735.0,23.0,1.0,5.0,0.0,11.0,Residencial urbano,Urbano,-68.84179,-32.86588,36.0
+Rulero,Apto,PET,2.0,Sí,784.0,305.0,27.0,106.0,122.0,18.0,116.0,26.0,194.0,29.0,109.0,236.0,18.0,735.0,23.0,1.0,5.0,0.0,11.0,Residencial urbano,Urbano,-68.84179,-32.86588,36.0
+Rulero,Apto,PET,2.0,Sí,876.0,287.0,39.0,157.0,125.0,23.0,229.0,59.0,261.0,57.0,55.0,130.0,8.0,810.0,35.0,3.0,0.0,1.0,9.0,Residencial urbano,Urbano,-68.8212,-32.87064,37.0
+Rulero,NoApto,PET,2.0,Sí,1190.0,351.0,23.0,208.0,113.0,43.0,76.0,103.0,141.0,61.0,93.0,576.0,66.0,1120.0,44.0,0.0,66.0,3.0,2.0,Residencial suburbano,Interfaz,-68.88335,-32.872279999999996,38.0
+Rulero,NoApto,PET,2.0,Sí,1190.0,351.0,23.0,208.0,113.0,43.0,76.0,103.0,141.0,61.0,93.0,576.0,66.0,1120.0,44.0,0.0,66.0,3.0,2.0,Residencial suburbano,Interfaz,-68.88335,-32.872279999999996,38.0
+Rulero,NoApto,PET,2.0,Sí,1190.0,351.0,23.0,208.0,113.0,43.0,76.0,103.0,141.0,61.0,93.0,576.0,66.0,1120.0,44.0,0.0,66.0,3.0,2.0,Residencial suburbano,Interfaz,-68.88335,-32.872279999999996,38.0
+Rulero,NoApto,PET,2.0,Sí,1190.0,351.0,23.0,208.0,113.0,43.0,76.0,103.0,141.0,61.0,93.0,576.0,66.0,1120.0,44.0,0.0,66.0,3.0,2.0,Residencial suburbano,Interfaz,-68.88335,-32.872279999999996,38.0
+Rulero,Apto,PET,3.0,Sí,1190.0,351.0,23.0,208.0,113.0,43.0,76.0,103.0,141.0,61.0,93.0,576.0,66.0,1120.0,44.0,0.0,66.0,3.0,2.0,Residencial suburbano,Interfaz,-68.88335,-32.872279999999996,38.0
+Rulero,NoApto,PET,2.0,Sí,784.0,305.0,27.0,106.0,122.0,18.0,116.0,26.0,194.0,29.0,109.0,236.0,18.0,735.0,23.0,1.0,5.0,0.0,11.0,Residencial urbano,Urbano,-68.84179,-32.86588,41.0
+Rulero,NoApto,PET,2.0,Sí,784.0,305.0,27.0,106.0,122.0,18.0,116.0,26.0,194.0,29.0,109.0,236.0,18.0,735.0,23.0,1.0,5.0,0.0,11.0,Residencial urbano,Urbano,-68.84179,-32.86588,41.0
+Rulero,NoApto,PET,2.0,Sí,784.0,305.0,27.0,106.0,122.0,18.0,116.0,26.0,194.0,29.0,109.0,236.0,18.0,735.0,23.0,1.0,5.0,0.0,11.0,Residencial urbano,Urbano,-68.84179,-32.86588,41.0
+Rulero,NoApto,PET,2.0,Sí,784.0,305.0,27.0,106.0,122.0,18.0,116.0,26.0,194.0,29.0,109.0,236.0,18.0,735.0,23.0,1.0,5.0,0.0,11.0,Residencial urbano,Urbano,-68.84179,-32.86588,41.0
+Rulero,NoApto,PET,2.0,Sí,784.0,305.0,27.0,106.0,122.0,18.0,116.0,26.0,194.0,29.0,109.0,236.0,18.0,735.0,23.0,1.0,5.0,0.0,11.0,Residencial urbano,Urbano,-68.84179,-32.86588,41.0
+Rulero,Apto,PET,2.0,Sí,784.0,305.0,27.0,106.0,122.0,18.0,116.0,26.0,194.0,29.0,109.0,236.0,18.0,735.0,23.0,1.0,5.0,0.0,11.0,Residencial urbano,Urbano,-68.84179,-32.86588,41.0
+Rulero,NoApto,PET,2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,16.0,Residencial urbano,Urbano,-68.83785,-32.8689,42.0
+Rulero,NoApto,PET,2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,16.0,Residencial urbano,Urbano,-68.83785,-32.8689,42.0
+Rulero,NoApto,PET,2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,16.0,Residencial urbano,Urbano,-68.83785,-32.8689,42.0
+Rulero,NoApto,PET,2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,16.0,Residencial urbano,Urbano,-68.83785,-32.8689,42.0
+Rulero,NoApto,PET,2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,16.0,Residencial urbano,Urbano,-68.83785,-32.8689,42.0
+Rulero,Apto,PET,2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,16.0,Residencial urbano,Urbano,-68.83785,-32.8689,42.0
+Rulero,Apto,PET,2.0,Sí,452.0,169.0,24.0,49.0,92.0,8.0,55.0,19.0,102.0,18.0,56.0,174.0,12.0,439.0,8.0,0.0,0.0,0.0,16.0,Residencial urbano,Urbano,-68.83785,-32.8689,42.0
+Rulero,NoApto,PET,2.0,Sí,785.0,233.0,23.0,115.0,110.0,16.0,154.0,52.0,214.0,30.0,80.0,179.0,13.0,724.0,29.0,2.0,0.0,0.0,13.0,Residencial urbano,Urbano,-68.83159,-32.87086,43.0
+Rulero,NoApto,PET,2.0,Sí,785.0,233.0,23.0,115.0,110.0,16.0,154.0,52.0,214.0,30.0,80.0,179.0,13.0,724.0,29.0,2.0,0.0,0.0,13.0,Residencial urbano,Urbano,-68.83159,-32.87086,43.0
+Rulero,NoApto,PET,2.0,Sí,785.0,233.0,23.0,115.0,110.0,16.0,154.0,52.0,214.0,30.0,80.0,179.0,13.0,724.0,29.0,2.0,0.0,0.0,13.0,Residencial urbano,Urbano,-68.83159,-32.87086,43.0
+Rulero,NoApto,PET,2.0,Sí,785.0,233.0,23.0,115.0,110.0,16.0,154.0,52.0,214.0,30.0,80.0,179.0,13.0,724.0,29.0,2.0,0.0,0.0,13.0,Residencial urbano,Urbano,-68.83159,-32.87086,43.0
+Rulero,NoApto,PET,2.0,Sí,785.0,233.0,23.0,115.0,110.0,16.0,154.0,52.0,214.0,30.0,80.0,179.0,13.0,724.0,29.0,2.0,0.0,0.0,13.0,Residencial urbano,Urbano,-68.83159,-32.87086,43.0
+Rulero,NoApto,PET,2.0,Sí,785.0,233.0,23.0,115.0,110.0,16.0,154.0,52.0,214.0,30.0,80.0,179.0,13.0,724.0,29.0,2.0,0.0,0.0,13.0,Residencial urbano,Urbano,-68.83159,-32.87086,43.0
+Rulero,Apto,PET,2.0,Sí,785.0,233.0,23.0,115.0,110.0,16.0,154.0,52.0,214.0,30.0,80.0,179.0,13.0,724.0,29.0,2.0,0.0,0.0,13.0,Residencial urbano,Urbano,-68.83159,-32.87086,43.0
+Rulero,NoApto,PET,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,4.0,Comercial,Altamente urbano,-68.84196999999999,-32.87435,44.0
+Rulero,NoApto,PET,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,4.0,Comercial,Altamente urbano,-68.84196999999999,-32.87435,44.0
+Rulero,NoApto,PET,1.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,4.0,Comercial,Altamente urbano,-68.84196999999999,-32.87435,44.0
+Rulero,NoApto,PET,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,6.0,Comercial,Altamente urbano,-68.84311,-32.87395,45.0
+Rulero,NoApto,PET,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,6.0,Comercial,Altamente urbano,-68.84311,-32.87395,45.0
+Rulero,NoApto,PET,1.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,6.0,Comercial,Altamente urbano,-68.84311,-32.87395,45.0
+Rulero,NoApto,PET,1.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,6.0,Comercial,Altamente urbano,-68.84311,-32.87395,45.0
+Rulero,NoApto,PET,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,6.0,Comercial,Altamente urbano,-68.84217,-32.87742,46.0
+Rulero,NoApto,PET,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,6.0,Comercial,Altamente urbano,-68.84217,-32.87742,46.0
+Rulero,NoApto,PET,2.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,6.0,Comercial,Altamente urbano,-68.84217,-32.87742,46.0
+Rulero,NoApto,PET,1.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,6.0,Comercial,Altamente urbano,-68.84217,-32.87742,46.0
+Rulero,NoApto,PET,1.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,6.0,Comercial,Altamente urbano,-68.84217,-32.87742,46.0
+Rulero,NoApto,PET,1.0,Sí,519.0,245.0,9.0,65.0,132.0,11.0,73.0,12.0,119.0,9.0,59.0,198.0,12.0,484.0,14.0,0.0,0.0,0.0,6.0,Comercial,Altamente urbano,-68.84217,-32.87742,46.0
+Rulero,NoApto,PET,2.0,Sí,634.0,202.0,18.0,87.0,97.0,16.0,102.0,26.0,184.0,22.0,54.0,194.0,9.0,593.0,24.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.8432,-32.88166,47.0
+Rulero,NoApto,PET,2.0,Sí,634.0,202.0,18.0,87.0,97.0,16.0,102.0,26.0,184.0,22.0,54.0,194.0,9.0,593.0,24.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.8432,-32.88166,47.0
+Rulero,NoApto,PET,2.0,Sí,634.0,202.0,18.0,87.0,97.0,16.0,102.0,26.0,184.0,22.0,54.0,194.0,9.0,593.0,24.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.8432,-32.88166,47.0
+Rulero,NoApto,PET,1.0,Sí,634.0,202.0,18.0,87.0,97.0,16.0,102.0,26.0,184.0,22.0,54.0,194.0,9.0,593.0,24.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.8432,-32.88166,47.0
+Rulero,NoApto,PET,1.0,Sí,634.0,202.0,18.0,87.0,97.0,16.0,102.0,26.0,184.0,22.0,54.0,194.0,9.0,593.0,24.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.8432,-32.88166,47.0
+Rulero,NoApto,PET,1.0,Sí,634.0,202.0,18.0,87.0,97.0,16.0,102.0,26.0,184.0,22.0,54.0,194.0,9.0,593.0,24.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.8432,-32.88166,47.0
+Rulero,Apto,PET,2.0,Sí,634.0,202.0,18.0,87.0,97.0,16.0,102.0,26.0,184.0,22.0,54.0,194.0,9.0,593.0,24.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.8432,-32.88166,47.0
+Rulero,Apto,PET,2.0,Sí,634.0,202.0,18.0,87.0,97.0,16.0,102.0,26.0,184.0,22.0,54.0,194.0,9.0,593.0,24.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.8432,-32.88166,47.0
+Rulero,NoApto,PET,2.0,Sí,750.0,270.0,14.0,132.0,86.0,19.0,150.0,43.0,181.0,27.0,84.0,197.0,7.0,696.0,25.0,1.0,0.0,1.0,55.0,Comercial,Altamente urbano,-68.83529,-32.87894,48.0
+Rulero,NoApto,PET,1.0,Sí,750.0,270.0,14.0,132.0,86.0,19.0,150.0,43.0,181.0,27.0,84.0,197.0,7.0,696.0,25.0,1.0,0.0,1.0,55.0,Comercial,Altamente urbano,-68.83529,-32.87894,48.0
+Rulero,Apto,PET,2.0,Sí,750.0,270.0,14.0,132.0,86.0,19.0,150.0,43.0,181.0,27.0,84.0,197.0,7.0,696.0,25.0,1.0,0.0,1.0,55.0,Comercial,Altamente urbano,-68.83529,-32.87894,48.0
+Rulero,NoApto,PET,2.0,Sí,668.0,239.0,17.0,82.0,113.0,9.0,76.0,22.0,210.0,17.0,80.0,210.0,10.0,627.0,17.0,0.0,0.0,0.0,58.0,Comercial,Altamente urbano,-68.83989,-32.882020000000004,49.0
+Rulero,NoApto,PET,2.0,Sí,668.0,239.0,17.0,82.0,113.0,9.0,76.0,22.0,210.0,17.0,80.0,210.0,10.0,627.0,17.0,0.0,0.0,0.0,58.0,Comercial,Altamente urbano,-68.83989,-32.882020000000004,49.0
+Rulero,NoApto,PET,2.0,Sí,668.0,239.0,17.0,82.0,113.0,9.0,76.0,22.0,210.0,17.0,80.0,210.0,10.0,627.0,17.0,0.0,0.0,0.0,58.0,Comercial,Altamente urbano,-68.83989,-32.882020000000004,49.0
+Rulero,NoApto,PET,2.0,Sí,668.0,239.0,17.0,82.0,113.0,9.0,76.0,22.0,210.0,17.0,80.0,210.0,10.0,627.0,17.0,0.0,0.0,0.0,58.0,Comercial,Altamente urbano,-68.83989,-32.882020000000004,49.0
+Rulero,NoApto,PET,1.0,Sí,668.0,239.0,17.0,82.0,113.0,9.0,76.0,22.0,210.0,17.0,80.0,210.0,10.0,627.0,17.0,0.0,0.0,0.0,58.0,Comercial,Altamente urbano,-68.83989,-32.882020000000004,49.0
+Rulero,NoApto,PET,1.0,Sí,668.0,239.0,17.0,82.0,113.0,9.0,76.0,22.0,210.0,17.0,80.0,210.0,10.0,627.0,17.0,0.0,0.0,0.0,58.0,Comercial,Altamente urbano,-68.83989,-32.882020000000004,49.0
+Rulero,NoApto,PET,1.0,Sí,668.0,239.0,17.0,82.0,113.0,9.0,76.0,22.0,210.0,17.0,80.0,210.0,10.0,627.0,17.0,0.0,0.0,0.0,58.0,Comercial,Altamente urbano,-68.83989,-32.882020000000004,49.0
+Rulero,Apto,PET,2.0,Sí,668.0,239.0,17.0,82.0,113.0,9.0,76.0,22.0,210.0,17.0,80.0,210.0,10.0,627.0,17.0,0.0,0.0,0.0,58.0,Comercial,Altamente urbano,-68.83989,-32.882020000000004,49.0
+Rulero,Apto,PET,2.0,Sí,668.0,239.0,17.0,82.0,113.0,9.0,76.0,22.0,210.0,17.0,80.0,210.0,10.0,627.0,17.0,0.0,0.0,0.0,58.0,Comercial,Altamente urbano,-68.83989,-32.882020000000004,49.0
+Rulero,NoApto,PET,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,70.0,Central,Altamente urbano,-68.84482,-32.88393,50.0
+Rulero,NoApto,PET,2.0,Sí,352.0,163.0,10.0,49.0,52.0,11.0,26.0,16.0,64.0,10.0,38.0,158.0,9.0,324.0,11.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.85365,-32.88391,51.0
+Rulero,NoApto,PET,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,70.0,Central,Altamente urbano,-68.84482,-32.88393,50.0
+Rulero,NoApto,PET,2.0,Sí,352.0,163.0,10.0,49.0,52.0,11.0,26.0,16.0,64.0,10.0,38.0,158.0,9.0,324.0,11.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.85365,-32.88391,51.0
+Rulero,NoApto,PET,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,70.0,Central,Altamente urbano,-68.84482,-32.88393,50.0
+Rulero,NoApto,PET,2.0,Sí,352.0,163.0,10.0,49.0,52.0,11.0,26.0,16.0,64.0,10.0,38.0,158.0,9.0,324.0,11.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.85365,-32.88391,51.0
+Rulero,NoApto,PET,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,70.0,Central,Altamente urbano,-68.84482,-32.88393,50.0
+Rulero,NoApto,PET,2.0,Sí,352.0,163.0,10.0,49.0,52.0,11.0,26.0,16.0,64.0,10.0,38.0,158.0,9.0,324.0,11.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.85365,-32.88391,51.0
+Rulero,NoApto,PET,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,70.0,Central,Altamente urbano,-68.84482,-32.88393,50.0
+Rulero,NoApto,PET,2.0,Sí,352.0,163.0,10.0,49.0,52.0,11.0,26.0,16.0,64.0,10.0,38.0,158.0,9.0,324.0,11.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.85365,-32.88391,51.0
+Rulero,NoApto,PET,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,70.0,Central,Altamente urbano,-68.84482,-32.88393,50.0
+Rulero,NoApto,PET,2.0,Sí,352.0,163.0,10.0,49.0,52.0,11.0,26.0,16.0,64.0,10.0,38.0,158.0,9.0,324.0,11.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.85365,-32.88391,51.0
+Rulero,NoApto,PET,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,70.0,Central,Altamente urbano,-68.84482,-32.88393,50.0
+Rulero,NoApto,PET,2.0,Sí,352.0,163.0,10.0,49.0,52.0,11.0,26.0,16.0,64.0,10.0,38.0,158.0,9.0,324.0,11.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.85365,-32.88391,51.0
+Rulero,NoApto,PET,1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,70.0,Central,Altamente urbano,-68.84482,-32.88393,50.0
+Rulero,NoApto,PET,1.0,Sí,352.0,163.0,10.0,49.0,52.0,11.0,26.0,16.0,64.0,10.0,38.0,158.0,9.0,324.0,11.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.85365,-32.88391,51.0
+Rulero,NoApto,PET,1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,70.0,Central,Altamente urbano,-68.84482,-32.88393,50.0
+Rulero,NoApto,PET,1.0,Sí,352.0,163.0,10.0,49.0,52.0,11.0,26.0,16.0,64.0,10.0,38.0,158.0,9.0,324.0,11.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.85365,-32.88391,51.0
+Rulero,NoApto,PET,1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,70.0,Central,Altamente urbano,-68.84482,-32.88393,50.0
+Rulero,NoApto,PET,1.0,Sí,352.0,163.0,10.0,49.0,52.0,11.0,26.0,16.0,64.0,10.0,38.0,158.0,9.0,324.0,11.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.85365,-32.88391,51.0
+Rulero,NoApto,PET,1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,70.0,Central,Altamente urbano,-68.84482,-32.88393,50.0
+Rulero,NoApto,PET,1.0,Sí,352.0,163.0,10.0,49.0,52.0,11.0,26.0,16.0,64.0,10.0,38.0,158.0,9.0,324.0,11.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.85365,-32.88391,51.0
+Rulero,NoApto,PET,1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,70.0,Central,Altamente urbano,-68.84482,-32.88393,50.0
+Rulero,NoApto,PET,1.0,Sí,352.0,163.0,10.0,49.0,52.0,11.0,26.0,16.0,64.0,10.0,38.0,158.0,9.0,324.0,11.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.85365,-32.88391,51.0
+Rulero,NoApto,PET,1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,70.0,Central,Altamente urbano,-68.84482,-32.88393,50.0
+Rulero,NoApto,PET,1.0,Sí,352.0,163.0,10.0,49.0,52.0,11.0,26.0,16.0,64.0,10.0,38.0,158.0,9.0,324.0,11.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.85365,-32.88391,51.0
+Rulero,NoApto,PET,1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,70.0,Central,Altamente urbano,-68.84482,-32.88393,50.0
+Rulero,NoApto,PET,1.0,Sí,352.0,163.0,10.0,49.0,52.0,11.0,26.0,16.0,64.0,10.0,38.0,158.0,9.0,324.0,11.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.85365,-32.88391,51.0
+Rulero,NoApto,PET,1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,70.0,Central,Altamente urbano,-68.84482,-32.88393,50.0
+Rulero,NoApto,PET,1.0,Sí,352.0,163.0,10.0,49.0,52.0,11.0,26.0,16.0,64.0,10.0,38.0,158.0,9.0,324.0,11.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.85365,-32.88391,51.0
+Rulero,NoApto,PET,1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,70.0,Central,Altamente urbano,-68.84482,-32.88393,50.0
+Rulero,NoApto,PET,1.0,Sí,352.0,163.0,10.0,49.0,52.0,11.0,26.0,16.0,64.0,10.0,38.0,158.0,9.0,324.0,11.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.85365,-32.88391,51.0
+Rulero,Apto,PET,1.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,70.0,Central,Altamente urbano,-68.84482,-32.88393,50.0
+Rulero,Apto,PET,1.0,Sí,352.0,163.0,10.0,49.0,52.0,11.0,26.0,16.0,64.0,10.0,38.0,158.0,9.0,324.0,11.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.85365,-32.88391,51.0
+Rulero,Apto,PET,2.0,Sí,411.0,192.0,11.0,50.0,100.0,13.0,41.0,11.0,90.0,8.0,57.0,160.0,17.0,390.0,10.0,2.0,0.0,0.0,70.0,Central,Altamente urbano,-68.84482,-32.88393,50.0
+Rulero,Apto,PET,2.0,Sí,352.0,163.0,10.0,49.0,52.0,11.0,26.0,16.0,64.0,10.0,38.0,158.0,9.0,324.0,11.0,0.0,0.0,0.0,39.0,Comercial,Altamente urbano,-68.85365,-32.88391,51.0
+Rulero,NoApto,PET,2.0,Sí,770.0,299.0,10.0,88.0,154.0,12.0,73.0,24.0,140.0,19.0,62.0,380.0,38.0,740.0,14.0,0.0,0.0,2.0,26.0,Residencial urbano,Urbano,-68.85506,-32.88548,52.0
+Rulero,NoApto,PET,2.0,Sí,770.0,299.0,10.0,88.0,154.0,12.0,73.0,24.0,140.0,19.0,62.0,380.0,38.0,740.0,14.0,0.0,0.0,2.0,26.0,Residencial urbano,Urbano,-68.85506,-32.88548,52.0
+Rulero,NoApto,PET,2.0,Sí,770.0,299.0,10.0,88.0,154.0,12.0,73.0,24.0,140.0,19.0,62.0,380.0,38.0,740.0,14.0,0.0,0.0,2.0,26.0,Residencial urbano,Urbano,-68.85506,-32.88548,52.0
+Rulero,NoApto,PET,2.0,Sí,770.0,299.0,10.0,88.0,154.0,12.0,73.0,24.0,140.0,19.0,62.0,380.0,38.0,740.0,14.0,0.0,0.0,2.0,26.0,Residencial urbano,Urbano,-68.85506,-32.88548,52.0
+Rulero,NoApto,PET,2.0,Sí,770.0,299.0,10.0,88.0,154.0,12.0,73.0,24.0,140.0,19.0,62.0,380.0,38.0,740.0,14.0,0.0,0.0,2.0,26.0,Residencial urbano,Urbano,-68.85506,-32.88548,52.0
+Rulero,NoApto,PET,1.0,Sí,770.0,299.0,10.0,88.0,154.0,12.0,73.0,24.0,140.0,19.0,62.0,380.0,38.0,740.0,14.0,0.0,0.0,2.0,26.0,Residencial urbano,Urbano,-68.85506,-32.88548,52.0
+Rulero,Apto,PET,3.0,Sí,770.0,299.0,10.0,88.0,154.0,12.0,73.0,24.0,140.0,19.0,62.0,380.0,38.0,740.0,14.0,0.0,0.0,2.0,26.0,Residencial urbano,Urbano,-68.85506,-32.88548,52.0
+Rulero,NoApto,PET,2.0,Sí,319.0,123.0,6.0,47.0,68.0,9.0,26.0,13.0,53.0,8.0,29.0,154.0,11.0,295.0,13.0,0.0,0.0,0.0,27.0,Residencial urbano,Urbano,-68.85072,-32.88643,53.0
+Rulero,NoApto,PET,2.0,Sí,319.0,123.0,6.0,47.0,68.0,9.0,26.0,13.0,53.0,8.0,29.0,154.0,11.0,295.0,13.0,0.0,0.0,0.0,27.0,Residencial urbano,Urbano,-68.85072,-32.88643,53.0
+Rulero,NoApto,PET,2.0,Sí,319.0,123.0,6.0,47.0,68.0,9.0,26.0,13.0,53.0,8.0,29.0,154.0,11.0,295.0,13.0,0.0,0.0,0.0,27.0,Residencial urbano,Urbano,-68.85072,-32.88643,53.0
+Rulero,NoApto,PET,2.0,Sí,319.0,123.0,6.0,47.0,68.0,9.0,26.0,13.0,53.0,8.0,29.0,154.0,11.0,295.0,13.0,0.0,0.0,0.0,27.0,Residencial urbano,Urbano,-68.85072,-32.88643,53.0
+Rulero,NoApto,PET,2.0,Sí,319.0,123.0,6.0,47.0,68.0,9.0,26.0,13.0,53.0,8.0,29.0,154.0,11.0,295.0,13.0,0.0,0.0,0.0,27.0,Residencial urbano,Urbano,-68.85072,-32.88643,53.0
+Rulero,NoApto,PET,2.0,Sí,319.0,123.0,6.0,47.0,68.0,9.0,26.0,13.0,53.0,8.0,29.0,154.0,11.0,295.0,13.0,0.0,0.0,0.0,27.0,Residencial urbano,Urbano,-68.85072,-32.88643,53.0
+Rulero,NoApto,PET,1.0,Sí,319.0,123.0,6.0,47.0,68.0,9.0,26.0,13.0,53.0,8.0,29.0,154.0,11.0,295.0,13.0,0.0,0.0,0.0,27.0,Residencial urbano,Urbano,-68.85072,-32.88643,53.0
+Rulero,NoApto,PET,2.0,Sí,266.0,126.0,12.0,31.0,42.0,9.0,29.0,3.0,66.0,5.0,38.0,98.0,5.0,247.0,9.0,0.0,0.0,0.0,17.0,Comercial,Altamente urbano,-68.82992,-32.88739,55.0
+Rulero,NoApto,PET,2.0,Sí,266.0,126.0,12.0,31.0,42.0,9.0,29.0,3.0,66.0,5.0,38.0,98.0,5.0,247.0,9.0,0.0,0.0,0.0,17.0,Comercial,Altamente urbano,-68.82992,-32.88739,55.0
+Rulero,NoApto,PET,2.0,Sí,266.0,126.0,12.0,31.0,42.0,9.0,29.0,3.0,66.0,5.0,38.0,98.0,5.0,247.0,9.0,0.0,0.0,0.0,17.0,Comercial,Altamente urbano,-68.82992,-32.88739,55.0
+Rulero,NoApto,PET,2.0,Sí,266.0,126.0,12.0,31.0,42.0,9.0,29.0,3.0,66.0,5.0,38.0,98.0,5.0,247.0,9.0,0.0,0.0,0.0,17.0,Comercial,Altamente urbano,-68.82992,-32.88739,55.0
+Rulero,NoApto,PET,1.0,Sí,266.0,126.0,12.0,31.0,42.0,9.0,29.0,3.0,66.0,5.0,38.0,98.0,5.0,247.0,9.0,0.0,0.0,0.0,17.0,Comercial,Altamente urbano,-68.82992,-32.88739,55.0
+Rulero,NoApto,PET,1.0,Sí,266.0,126.0,12.0,31.0,42.0,9.0,29.0,3.0,66.0,5.0,38.0,98.0,5.0,247.0,9.0,0.0,0.0,0.0,17.0,Comercial,Altamente urbano,-68.82992,-32.88739,55.0
+Rulero,NoApto,PET,1.0,Sí,266.0,126.0,12.0,31.0,42.0,9.0,29.0,3.0,66.0,5.0,38.0,98.0,5.0,247.0,9.0,0.0,0.0,0.0,17.0,Comercial,Altamente urbano,-68.82992,-32.88739,55.0
+Rulero,NoApto,PET,1.0,Sí,266.0,126.0,12.0,31.0,42.0,9.0,29.0,3.0,66.0,5.0,38.0,98.0,5.0,247.0,9.0,0.0,0.0,0.0,17.0,Comercial,Altamente urbano,-68.82992,-32.88739,55.0
+Rulero,Apto,PET,2.0,Sí,266.0,126.0,12.0,31.0,42.0,9.0,29.0,3.0,66.0,5.0,38.0,98.0,5.0,247.0,9.0,0.0,0.0,0.0,17.0,Comercial,Altamente urbano,-68.82992,-32.88739,55.0
+Rulero,NoApto,PET,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,72.0,Central,Altamente urbano,-68.84365,-32.88776,56.0
+Rulero,NoApto,PET,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,72.0,Central,Altamente urbano,-68.84365,-32.88776,56.0
+Rulero,NoApto,PET,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,72.0,Central,Altamente urbano,-68.84365,-32.88776,56.0
+Rulero,NoApto,PET,1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,72.0,Central,Altamente urbano,-68.84365,-32.88776,56.0
+Rulero,NoApto,PET,1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,72.0,Central,Altamente urbano,-68.84365,-32.88776,56.0
+Rulero,NoApto,PET,1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,72.0,Central,Altamente urbano,-68.84365,-32.88776,56.0
+Rulero,NoApto,PET,1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,72.0,Central,Altamente urbano,-68.84365,-32.88776,56.0
+Rulero,NoApto,PET,1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,72.0,Central,Altamente urbano,-68.84365,-32.88776,56.0
+Rulero,NoApto,PET,1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,72.0,Central,Altamente urbano,-68.84365,-32.88776,56.0
+Rulero,NoApto,PET,1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,72.0,Central,Altamente urbano,-68.84365,-32.88776,56.0
+Rulero,NoApto,PET,2.0,Sí,358.0,138.0,7.0,50.0,57.0,13.0,42.0,17.0,78.0,10.0,39.0,135.0,8.0,331.0,18.0,0.0,0.0,0.0,13.0,Residencial urbano,Urbano,-68.85736,-32.88162,57.0
+Rulero,NoApto,PET,2.0,Sí,358.0,138.0,7.0,50.0,57.0,13.0,42.0,17.0,78.0,10.0,39.0,135.0,8.0,331.0,18.0,0.0,0.0,0.0,13.0,Residencial urbano,Urbano,-68.85736,-32.88162,57.0
+Rulero,NoApto,PET,2.0,Sí,358.0,138.0,7.0,50.0,57.0,13.0,42.0,17.0,78.0,10.0,39.0,135.0,8.0,331.0,18.0,0.0,0.0,0.0,13.0,Residencial urbano,Urbano,-68.85736,-32.88162,57.0
+Rulero,NoApto,PET,1.0,Sí,358.0,138.0,7.0,50.0,57.0,13.0,42.0,17.0,78.0,10.0,39.0,135.0,8.0,331.0,18.0,0.0,0.0,0.0,13.0,Residencial urbano,Urbano,-68.85736,-32.88162,57.0
+Rulero,NoApto,PET,1.0,Sí,358.0,138.0,7.0,50.0,57.0,13.0,42.0,17.0,78.0,10.0,39.0,135.0,8.0,331.0,18.0,0.0,0.0,0.0,13.0,Residencial urbano,Urbano,-68.85736,-32.88162,57.0
+Rulero,NoApto,PET,1.0,Sí,358.0,138.0,7.0,50.0,57.0,13.0,42.0,17.0,78.0,10.0,39.0,135.0,8.0,331.0,18.0,0.0,0.0,0.0,13.0,Residencial urbano,Urbano,-68.85736,-32.88162,57.0
+Rulero,Apto,PET,2.0,Sí,358.0,138.0,7.0,50.0,57.0,13.0,42.0,17.0,78.0,10.0,39.0,135.0,8.0,331.0,18.0,0.0,0.0,0.0,13.0,Residencial urbano,Urbano,-68.85736,-32.88162,57.0
+Rulero,Apto,PET,2.0,Sí,358.0,138.0,7.0,50.0,57.0,13.0,42.0,17.0,78.0,10.0,39.0,135.0,8.0,331.0,18.0,0.0,0.0,0.0,13.0,Residencial urbano,Urbano,-68.85736,-32.88162,57.0
+Rulero,NoApto,PET,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,72.0,Central,Altamente urbano,-68.84365,-32.88776,58.0
+Rulero,NoApto,PET,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,72.0,Central,Altamente urbano,-68.84365,-32.88776,58.0
+Rulero,NoApto,PET,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,72.0,Central,Altamente urbano,-68.84365,-32.88776,58.0
+Rulero,NoApto,PET,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,72.0,Central,Altamente urbano,-68.84365,-32.88776,58.0
+Rulero,NoApto,PET,2.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,72.0,Central,Altamente urbano,-68.84365,-32.88776,58.0
+Rulero,NoApto,PET,1.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,72.0,Central,Altamente urbano,-68.84365,-32.88776,58.0
+Rulero,Apto,PET,3.0,Sí,398.0,196.0,13.0,32.0,116.0,4.0,41.0,11.0,75.0,15.0,48.0,175.0,17.0,387.0,1.0,0.0,1.0,0.0,72.0,Central,Altamente urbano,-68.84365,-32.88776,58.0
+Rulero,NoApto,PET,2.0,Sí,548.0,238.0,7.0,59.0,99.0,15.0,48.0,9.0,95.0,19.0,50.0,275.0,19.0,518.0,15.0,0.0,0.0,1.0,20.0,Residencial urbano,Urbano,-68.85432414,-32.8902437,59.0
+Rulero,NoApto,PET,2.0,Sí,548.0,238.0,7.0,59.0,99.0,15.0,48.0,9.0,95.0,19.0,50.0,275.0,19.0,518.0,15.0,0.0,0.0,1.0,20.0,Residencial urbano,Urbano,-68.85432414,-32.8902437,59.0
+Rulero,NoApto,PET,2.0,Sí,548.0,238.0,7.0,59.0,99.0,15.0,48.0,9.0,95.0,19.0,50.0,275.0,19.0,518.0,15.0,0.0,0.0,1.0,20.0,Residencial urbano,Urbano,-68.85432414,-32.8902437,59.0
+Rulero,NoApto,PET,1.0,Sí,548.0,238.0,7.0,59.0,99.0,15.0,48.0,9.0,95.0,19.0,50.0,275.0,19.0,518.0,15.0,0.0,0.0,1.0,20.0,Residencial urbano,Urbano,-68.85432414,-32.8902437,59.0
+Rulero,NoApto,PET,1.0,Sí,548.0,238.0,7.0,59.0,99.0,15.0,48.0,9.0,95.0,19.0,50.0,275.0,19.0,518.0,15.0,0.0,0.0,1.0,20.0,Residencial urbano,Urbano,-68.85432414,-32.8902437,59.0
+Rulero,Apto,PET,2.0,Sí,548.0,238.0,7.0,59.0,99.0,15.0,48.0,9.0,95.0,19.0,50.0,275.0,19.0,518.0,15.0,0.0,0.0,1.0,20.0,Residencial urbano,Urbano,-68.85432414,-32.8902437,59.0
+Rulero,NoApto,PET,2.0,Sí,548.0,238.0,7.0,59.0,99.0,15.0,48.0,9.0,95.0,19.0,50.0,275.0,19.0,518.0,15.0,0.0,0.0,1.0,20.0,Residencial urbano,Urbano,-68.85433393,-32.89026014,60.0
+Rulero,NoApto,PET,2.0,Sí,548.0,238.0,7.0,59.0,99.0,15.0,48.0,9.0,95.0,19.0,50.0,275.0,19.0,518.0,15.0,0.0,0.0,1.0,20.0,Residencial urbano,Urbano,-68.85433393,-32.89026014,60.0
+Rulero,NoApto,PET,2.0,Sí,548.0,238.0,7.0,59.0,99.0,15.0,48.0,9.0,95.0,19.0,50.0,275.0,19.0,518.0,15.0,0.0,0.0,1.0,20.0,Residencial urbano,Urbano,-68.85433393,-32.89026014,60.0
+Rulero,NoApto,PET,2.0,Sí,548.0,238.0,7.0,59.0,99.0,15.0,48.0,9.0,95.0,19.0,50.0,275.0,19.0,518.0,15.0,0.0,0.0,1.0,20.0,Residencial urbano,Urbano,-68.85433393,-32.89026014,60.0
+Rulero,NoApto,PET,1.0,Sí,548.0,238.0,7.0,59.0,99.0,15.0,48.0,9.0,95.0,19.0,50.0,275.0,19.0,518.0,15.0,0.0,0.0,1.0,20.0,Residencial urbano,Urbano,-68.85433393,-32.89026014,60.0
+Rulero,NoApto,PET,1.0,Sí,548.0,238.0,7.0,59.0,99.0,15.0,48.0,9.0,95.0,19.0,50.0,275.0,19.0,518.0,15.0,0.0,0.0,1.0,20.0,Residencial urbano,Urbano,-68.85433393,-32.89026014,60.0
+Rulero,Apto,PET,2.0,Sí,548.0,238.0,7.0,59.0,99.0,15.0,48.0,9.0,95.0,19.0,50.0,275.0,19.0,518.0,15.0,0.0,0.0,1.0,20.0,Residencial urbano,Urbano,-68.85433393,-32.89026014,60.0
+Rulero,NoApto,PET,2.0,Sí,697.0,295.0,31.0,92.0,109.0,20.0,41.0,30.0,111.0,14.0,55.0,367.0,29.0,651.0,24.0,1.0,1.0,1.0,18.0,Residencial urbano,Urbano,-68.85396,-32.89845,61.0
+Rulero,NoApto,PET,2.0,Sí,697.0,295.0,31.0,92.0,109.0,20.0,41.0,30.0,111.0,14.0,55.0,367.0,29.0,651.0,24.0,1.0,1.0,1.0,18.0,Residencial urbano,Urbano,-68.85396,-32.89845,61.0
+Rulero,NoApto,PET,2.0,Sí,697.0,295.0,31.0,92.0,109.0,20.0,41.0,30.0,111.0,14.0,55.0,367.0,29.0,651.0,24.0,1.0,1.0,1.0,18.0,Residencial urbano,Urbano,-68.85396,-32.89845,61.0
+Rulero,NoApto,PET,2.0,Sí,697.0,295.0,31.0,92.0,109.0,20.0,41.0,30.0,111.0,14.0,55.0,367.0,29.0,651.0,24.0,1.0,1.0,1.0,18.0,Residencial urbano,Urbano,-68.85396,-32.89845,61.0
+Rulero,NoApto,PET,2.0,Sí,697.0,295.0,31.0,92.0,109.0,20.0,41.0,30.0,111.0,14.0,55.0,367.0,29.0,651.0,24.0,1.0,1.0,1.0,18.0,Residencial urbano,Urbano,-68.85396,-32.89845,61.0
+Rulero,NoApto,PET,1.0,Sí,697.0,295.0,31.0,92.0,109.0,20.0,41.0,30.0,111.0,14.0,55.0,367.0,29.0,651.0,24.0,1.0,1.0,1.0,18.0,Residencial urbano,Urbano,-68.85396,-32.89845,61.0
+Rulero,NoApto,PET,1.0,Sí,697.0,295.0,31.0,92.0,109.0,20.0,41.0,30.0,111.0,14.0,55.0,367.0,29.0,651.0,24.0,1.0,1.0,1.0,18.0,Residencial urbano,Urbano,-68.85396,-32.89845,61.0
+Rulero,Apto,PET,3.0,Sí,697.0,295.0,31.0,92.0,109.0,20.0,41.0,30.0,111.0,14.0,55.0,367.0,29.0,651.0,24.0,1.0,1.0,1.0,18.0,Residencial urbano,Urbano,-68.85396,-32.89845,61.0
+Rulero,Apto,PET,2.0,Sí,697.0,295.0,31.0,92.0,109.0,20.0,41.0,30.0,111.0,14.0,55.0,367.0,29.0,651.0,24.0,1.0,1.0,1.0,18.0,Residencial urbano,Urbano,-68.85396,-32.89845,61.0
+Rulero,NoApto,PET,2.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,21.0,Central,Altamente urbano,-68.8501888,-32.89607131,62.0
+Rulero,NoApto,PET,1.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,21.0,Central,Altamente urbano,-68.8501888,-32.89607131,62.0
+Rulero,NoApto,PET,1.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,21.0,Central,Altamente urbano,-68.8501888,-32.89607131,62.0
+Rulero,NoApto,PET,1.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,21.0,Central,Altamente urbano,-68.8501888,-32.89607131,62.0
+Rulero,NoApto,PET,1.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,21.0,Central,Altamente urbano,-68.8501888,-32.89607131,62.0
+Rulero,NoApto,PET,1.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,21.0,Central,Altamente urbano,-68.8501888,-32.89607131,62.0
+Rulero,NoApto,PET,2.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,75.0,Central,Altamente urbano,-68.84584,-32.89632,63.0
+Rulero,NoApto,PET,2.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,75.0,Central,Altamente urbano,-68.84584,-32.89632,63.0
+Rulero,NoApto,PET,1.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,75.0,Central,Altamente urbano,-68.84584,-32.89632,63.0
+Rulero,NoApto,PET,1.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,75.0,Central,Altamente urbano,-68.84584,-32.89632,63.0
+Rulero,NoApto,PET,1.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,75.0,Central,Altamente urbano,-68.84584,-32.89632,63.0
+Rulero,NoApto,PET,1.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,75.0,Central,Altamente urbano,-68.84584,-32.89632,63.0
+Rulero,NoApto,PET,1.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,75.0,Central,Altamente urbano,-68.84584,-32.89632,63.0
+Rulero,NoApto,PET,1.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,75.0,Central,Altamente urbano,-68.84584,-32.89632,63.0
+Rulero,Apto,PET,2.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,75.0,Central,Altamente urbano,-68.84584,-32.89632,63.0
+Rulero,Apto,PET,2.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,75.0,Central,Altamente urbano,-68.84584,-32.89632,63.0
+Rulero,Apto,PET,2.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,75.0,Central,Altamente urbano,-68.84584,-32.89632,63.0
+Rulero,NoApto,PET,2.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,63.0,Comercial,Altamente urbano,-68.84129,-32.89655,64.0
+Rulero,NoApto,PET,2.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,63.0,Comercial,Altamente urbano,-68.84129,-32.89655,64.0
+Rulero,NoApto,PET,1.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,63.0,Comercial,Altamente urbano,-68.84129,-32.89655,64.0
+Rulero,NoApto,PET,1.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,63.0,Comercial,Altamente urbano,-68.84129,-32.89655,64.0
+Rulero,NoApto,PET,1.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,63.0,Comercial,Altamente urbano,-68.84129,-32.89655,64.0
+Rulero,NoApto,PET,1.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,63.0,Comercial,Altamente urbano,-68.84129,-32.89655,64.0
+Rulero,NoApto,PET,1.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,63.0,Comercial,Altamente urbano,-68.84129,-32.89655,64.0
+Rulero,NoApto,PET,1.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,63.0,Comercial,Altamente urbano,-68.84129,-32.89655,64.0
+Rulero,NoApto,PET,1.0,Sí,562.0,164.0,17.0,106.0,53.0,21.0,66.0,19.0,97.0,22.0,68.0,223.0,14.0,510.0,25.0,0.0,0.0,2.0,63.0,Comercial,Altamente urbano,-68.84129,-32.89655,64.0
+Rulero,NoApto,PET,2.0,Sí,845.0,253.0,36.0,186.0,122.0,27.0,190.0,56.0,279.0,42.0,57.0,118.0,8.0,753.0,42.0,2.0,0.0,3.0,4.0,Residencial urbano,Urbano,-68.83421,-32.8623,65.0
+Rulero,NoApto,PET,2.0,Sí,845.0,253.0,36.0,186.0,122.0,27.0,190.0,56.0,279.0,42.0,57.0,118.0,8.0,753.0,42.0,2.0,0.0,3.0,4.0,Residencial urbano,Urbano,-68.83421,-32.8623,65.0
+Rulero,NoApto,PET,2.0,Sí,845.0,253.0,36.0,186.0,122.0,27.0,190.0,56.0,279.0,42.0,57.0,118.0,8.0,753.0,42.0,2.0,0.0,3.0,4.0,Residencial urbano,Urbano,-68.83421,-32.8623,65.0
+Rulero,NoApto,PET,1.0,Sí,845.0,253.0,36.0,186.0,122.0,27.0,190.0,56.0,279.0,42.0,57.0,118.0,8.0,753.0,42.0,2.0,0.0,3.0,4.0,Residencial urbano,Urbano,-68.83421,-32.8623,65.0
+Rulero,NoApto,PET,1.0,Sí,845.0,253.0,36.0,186.0,122.0,27.0,190.0,56.0,279.0,42.0,57.0,118.0,8.0,753.0,42.0,2.0,0.0,3.0,4.0,Residencial urbano,Urbano,-68.83421,-32.8623,65.0
+Rulero,NoApto,PET,1.0,Sí,845.0,253.0,36.0,186.0,122.0,27.0,190.0,56.0,279.0,42.0,57.0,118.0,8.0,753.0,42.0,2.0,0.0,3.0,4.0,Residencial urbano,Urbano,-68.83421,-32.8623,65.0
+Rulero,Apto,PET,3.0,Sí,845.0,253.0,36.0,186.0,122.0,27.0,190.0,56.0,279.0,42.0,57.0,118.0,8.0,753.0,42.0,2.0,0.0,3.0,4.0,Residencial urbano,Urbano,-68.83421,-32.8623,65.0
+Rulero,Apto,PET,2.0,Sí,845.0,253.0,36.0,186.0,122.0,27.0,190.0,56.0,279.0,42.0,57.0,118.0,8.0,753.0,42.0,2.0,0.0,3.0,4.0,Residencial urbano,Urbano,-68.83421,-32.8623,65.0
+Rulero,Apto,PET,2.0,Sí,845.0,253.0,36.0,186.0,122.0,27.0,190.0,56.0,279.0,42.0,57.0,118.0,8.0,753.0,42.0,2.0,0.0,3.0,4.0,Residencial urbano,Urbano,-68.83421,-32.8623,65.0
+Rulero,NoApto,PET,2.0,Sí,401.0,147.0,2.0,54.0,84.0,10.0,44.0,13.0,81.0,11.0,21.0,194.0,18.0,383.0,13.0,0.0,0.0,0.0,27.0,Residencial urbano,Urbano,-68.84567,-32.90273,66.0
+Rulero,NoApto,PET,2.0,Sí,401.0,147.0,2.0,54.0,84.0,10.0,44.0,13.0,81.0,11.0,21.0,194.0,18.0,383.0,13.0,0.0,0.0,0.0,27.0,Residencial urbano,Urbano,-68.84567,-32.90273,66.0
+Rulero,NoApto,PET,2.0,Sí,401.0,147.0,2.0,54.0,84.0,10.0,44.0,13.0,81.0,11.0,21.0,194.0,18.0,383.0,13.0,0.0,0.0,0.0,27.0,Residencial urbano,Urbano,-68.84567,-32.90273,66.0
+Rulero,NoApto,PET,2.0,Sí,401.0,147.0,2.0,54.0,84.0,10.0,44.0,13.0,81.0,11.0,21.0,194.0,18.0,383.0,13.0,0.0,0.0,0.0,27.0,Residencial urbano,Urbano,-68.84567,-32.90273,66.0
+Rulero,NoApto,PET,2.0,Sí,401.0,147.0,2.0,54.0,84.0,10.0,44.0,13.0,81.0,11.0,21.0,194.0,18.0,383.0,13.0,0.0,0.0,0.0,27.0,Residencial urbano,Urbano,-68.84567,-32.90273,66.0
+Rulero,NoApto,PET,1.0,Sí,401.0,147.0,2.0,54.0,84.0,10.0,44.0,13.0,81.0,11.0,21.0,194.0,18.0,383.0,13.0,0.0,0.0,0.0,27.0,Residencial urbano,Urbano,-68.84567,-32.90273,66.0
+Rulero,NoApto,PET,1.0,Sí,401.0,147.0,2.0,54.0,84.0,10.0,44.0,13.0,81.0,11.0,21.0,194.0,18.0,383.0,13.0,0.0,0.0,0.0,27.0,Residencial urbano,Urbano,-68.84567,-32.90273,66.0
+Rulero,Apto,PET,2.0,Sí,401.0,147.0,2.0,54.0,84.0,10.0,44.0,13.0,81.0,11.0,21.0,194.0,18.0,383.0,13.0,0.0,0.0,0.0,27.0,Residencial urbano,Urbano,-68.84567,-32.90273,66.0
+Rulero,NoApto,PET,1.0,Sí,340.0,152.0,4.0,25.0,71.0,7.0,31.0,4.0,74.0,13.0,23.0,160.0,17.0,322.0,8.0,1.0,0.0,0.0,71.0,Comercial,Altamente urbano,-68.85032,-32.89217,67.0
+Rulero,NoApto,PET,1.0,Sí,340.0,152.0,4.0,25.0,71.0,7.0,31.0,4.0,74.0,13.0,23.0,160.0,17.0,322.0,8.0,1.0,0.0,0.0,71.0,Comercial,Altamente urbano,-68.85032,-32.89217,67.0
+Rulero,NoApto,PET,1.0,Sí,340.0,152.0,4.0,25.0,71.0,7.0,31.0,4.0,74.0,13.0,23.0,160.0,17.0,322.0,8.0,1.0,0.0,0.0,71.0,Comercial,Altamente urbano,-68.85032,-32.89217,67.0
+Rulero,NoApto,PET,1.0,Sí,340.0,152.0,4.0,25.0,71.0,7.0,31.0,4.0,74.0,13.0,23.0,160.0,17.0,322.0,8.0,1.0,0.0,0.0,71.0,Comercial,Altamente urbano,-68.85032,-32.89217,67.0
+Rulero,NoApto,PET,1.0,Sí,340.0,152.0,4.0,25.0,71.0,7.0,31.0,4.0,74.0,13.0,23.0,160.0,17.0,322.0,8.0,1.0,0.0,0.0,71.0,Comercial,Altamente urbano,-68.85032,-32.89217,67.0
+Rulero,NoApto,PET,2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,21.0,Residencial urbano,Urbano,-68.85428,-32.90217,68.0
+Rulero,NoApto,PET,2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,21.0,Residencial urbano,Urbano,-68.85428,-32.90217,68.0
+Rulero,NoApto,PET,2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,21.0,Residencial urbano,Urbano,-68.85428,-32.90217,68.0
+Rulero,NoApto,PET,2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,21.0,Residencial urbano,Urbano,-68.85428,-32.90217,68.0
+Rulero,NoApto,PET,1.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,21.0,Residencial urbano,Urbano,-68.85428,-32.90217,68.0
+Rulero,NoApto,PET,1.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,21.0,Residencial urbano,Urbano,-68.85428,-32.90217,68.0
+Rulero,NoApto,PET,1.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,21.0,Residencial urbano,Urbano,-68.85428,-32.90217,68.0
+Rulero,Apto,PET,2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,21.0,Residencial urbano,Urbano,-68.85428,-32.90217,68.0
+Rulero,Apto,PET,2.0,Sí,656.0,263.0,20.0,86.0,111.0,15.0,66.0,19.0,112.0,26.0,74.0,305.0,16.0,620.0,19.0,0.0,0.0,0.0,21.0,Residencial urbano,Urbano,-68.85428,-32.90217,68.0
+Rulero,NoApto,PET,2.0,Sí,770.0,299.0,10.0,88.0,154.0,12.0,73.0,24.0,140.0,19.0,62.0,380.0,38.0,740.0,14.0,0.0,0.0,2.0,26.0,Residencial urbano,Urbano,-68.85506,-32.88548,69.0
+Rulero,NoApto,PET,1.0,Sí,770.0,299.0,10.0,88.0,154.0,12.0,73.0,24.0,140.0,19.0,62.0,380.0,38.0,740.0,14.0,0.0,0.0,2.0,26.0,Residencial urbano,Urbano,-68.85506,-32.88548,69.0
+Rulero,NoApto,PET,1.0,Sí,770.0,299.0,10.0,88.0,154.0,12.0,73.0,24.0,140.0,19.0,62.0,380.0,38.0,740.0,14.0,0.0,0.0,2.0,26.0,Residencial urbano,Urbano,-68.85506,-32.88548,69.0
+Rulero,NoApto,PET,1.0,Sí,770.0,299.0,10.0,88.0,154.0,12.0,73.0,24.0,140.0,19.0,62.0,380.0,38.0,740.0,14.0,0.0,0.0,2.0,26.0,Residencial urbano,Urbano,-68.85506,-32.88548,69.0
+Rulero,NoApto,PET,1.0,Sí,770.0,299.0,10.0,88.0,154.0,12.0,73.0,24.0,140.0,19.0,62.0,380.0,38.0,740.0,14.0,0.0,0.0,2.0,26.0,Residencial urbano,Urbano,-68.85506,-32.88548,69.0
+Rulero,NoApto,PET,1.0,Sí,770.0,299.0,10.0,88.0,154.0,12.0,73.0,24.0,140.0,19.0,62.0,380.0,38.0,740.0,14.0,0.0,0.0,2.0,26.0,Residencial urbano,Urbano,-68.85506,-32.88548,69.0
+Rulero,NoApto,PET,2.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,10.0,Residencial urbano,Urbano,-68.84836999999999,-32.90143,70.0
+Rulero,NoApto,PET,1.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,10.0,Residencial urbano,Urbano,-68.84836999999999,-32.90143,70.0
+Rulero,NoApto,PET,1.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,10.0,Residencial urbano,Urbano,-68.84836999999999,-32.90143,70.0
+Rulero,NoApto,PET,1.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,10.0,Residencial urbano,Urbano,-68.84836999999999,-32.90143,70.0
+Rulero,NoApto,PET,1.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,10.0,Residencial urbano,Urbano,-68.84836999999999,-32.90143,70.0
+Rulero,NoApto,PET,1.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,10.0,Residencial urbano,Urbano,-68.84836999999999,-32.90143,70.0
+Rulero,NoApto,PET,1.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,10.0,Residencial urbano,Urbano,-68.84836999999999,-32.90143,70.0
+Rulero,NoApto,PET,1.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,10.0,Residencial urbano,Urbano,-68.84836999999999,-32.90143,70.0
+Rulero,NoApto,PET,1.0,Sí,528.0,188.0,11.0,87.0,102.0,16.0,40.0,24.0,82.0,18.0,47.0,250.0,23.0,487.0,16.0,0.0,0.0,0.0,10.0,Residencial urbano,Urbano,-68.84836999999999,-32.90143,70.0
